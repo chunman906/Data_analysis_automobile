@@ -1,5 +1,4 @@
-# **Automobile data Analysis **
-
+# Automobile data Analysis 🚙
 This tool provides an in-depth analysis of fuel economy across various automobiles, based on publicly available datasets for the years 2015 through 2023. As a console-based Python application, the software allows users to view findings from different analysis perspectives.
 
 ## **Setup and Launch**
