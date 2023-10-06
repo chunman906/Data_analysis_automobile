@@ -1,0 +1,28 @@
+# This is the documentation for the data python application.
+# The app is Python console-based for simple and easy to use on viewing analysis findings purpose.
+
+# Usage for the app
+# 1. download all the files including the attached excels for datasets.
+# 2. run the 'app.py' in console/terminal by typing 'python app.py'
+# 3. please be patient for 10 seconds with the computer to load the application.
+# 4. select options from menu for different analysis findings by number '1 to 7'
+# 5. For the options '1', '3' and '4' you can select data from year 2015 only or year 2015 to 2023 (9 years)
+# 6. To exit the program, press any number or letter other than '1 to 7'.
+
+# Analysis scope
+# The app provide analysis findings for a total of ten questions regard to the user case.
+# There are 7 options in main menu, and another 3 options in 3 of the 7 options.
+# All ten questions are:
+# 1. Find the car manufacturer which contains most quantity of car models.
+    1. Year 2015 data
+    2. Year 2015 to 2023 data
+  3. Find the top average fuel economy for the city and highway driving from the given dataset.
+  4. Find good and bad average fuel economy cars from all transmission types.
+    4. Year 2015 data
+    5. Year 2015 to 2023 data
+  6. Find car manufacturers which have 4WD and 2WD with engine power is more than 3.5
+    6. Year 2015 data
+    7. Year 2023 data
+  8. Find the fuel economy performance among different drive type (e.g. front wheel vs all wheel).
+  9. Show the correlations between fuel economy and car release day for all years.
+  10. Show the correlations between fuel economy and different types of co2 and engine power.

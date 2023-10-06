@@ -1,0 +1,730 @@
+Model Year,Mfr Name,Division,Carline,Engine Displacement,# Cylinders,Transmission,City FE,Highway FE,Combined FE,Air Aspiration Method,Transmission Description,# Gears,Drive Desc,Carline Class Desc,Release Date,City CO2,Highway CO2,Combined CO2
+2015,aston martin,Aston Martin Lagonda Ltd,V12 Vantage S,6.0,12,Auto,12,18,14,Naturally Aspirated,Automated Manual,7,"2-Wheel Drive, Rear",Two Seaters,20/01/2014,742,488,628
+2015,aston martin,Aston Martin Lagonda Ltd,V8 Vantage,4.7,8,Auto,14,21,16,Naturally Aspirated,Automated Manual,7,"2-Wheel Drive, Rear",Two Seaters,19/05/2014,655,426,552
+2015,aston martin,Aston Martin Lagonda Ltd,V8 Vantage,4.7,8,Manual,13,19,15,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,19/05/2014,681,461,582
+2015,aston martin,Aston Martin Lagonda Ltd,V8 Vantage S,4.7,8,Auto,14,21,16,Naturally Aspirated,Automated Manual,7,"2-Wheel Drive, Rear",Two Seaters,19/05/2014,655,426,552
+2015,aston martin,Aston Martin Lagonda Ltd,V8 Vantage S,4.7,8,Manual,13,19,15,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,19/05/2014,681,461,582
+2015,aston martin,Aston Martin Lagonda Ltd,Vantage GT,4.7,8,Auto,14,21,16,Naturally Aspirated,Automated Manual,7,"2-Wheel Drive, Rear",Two Seaters,19/05/2014,655,426,552
+2015,aston martin,Aston Martin Lagonda Ltd,Vantage GT,4.7,8,Manual,13,19,15,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,19/05/2014,681,461,582
+2015,Volkswagen Group of,Audi,R8,4.2,8,Auto,14,23,17,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,09/06/2014,656,394,538
+2015,Volkswagen Group of,Audi,R8,4.2,8,Manual,11,20,14,Naturally Aspirated,Manual,6,All Wheel Drive,Two Seaters,09/06/2014,772,439,622
+2015,Volkswagen Group of,Audi,R8,5.2,10,Auto,13,22,16,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,09/06/2014,686,400,557
+2015,Volkswagen Group of,Audi,R8,5.2,10,Manual,12,19,14,Naturally Aspirated,Manual,6,All Wheel Drive,Two Seaters,09/06/2014,753,454,618
+2015,Volkswagen Group of,Audi,R8 Spyder,4.2,8,Auto,14,23,17,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,09/06/2014,656,394,538
+2015,Volkswagen Group of,Audi,R8 Spyder,4.2,8,Manual,11,20,14,Naturally Aspirated,Manual,6,All Wheel Drive,Two Seaters,09/06/2014,772,439,622
+2015,Volkswagen Group of,Audi,R8 Spyder,5.2,10,Auto,13,22,16,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,09/06/2014,686,400,557
+2015,Volkswagen Group of,Audi,R8 Spyder,5.2,10,Manual,12,19,14,Naturally Aspirated,Manual,6,All Wheel Drive,Two Seaters,09/06/2014,753,454,618
+2015,Volkswagen Group of,Audi,TT Roadster quattro,2.0,4,Auto,22,31,26,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,All Wheel Drive,Two Seaters,15/01/2014,395,284,345
+2015,BMW,BMW,Z4 sDrive28i,2.0,4,Auto,22,33,26,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Two Seaters,26/03/2014,403,266,341
+2015,BMW,BMW,Z4 sDrive28i,2.0,4,Manual,22,34,26,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Two Seaters,26/03/2014,400,259,337
+2015,BMW,BMW,Z4 sDrive35i,3.0,6,Auto,17,24,20,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,01/04/2014,518,376,454
+2015,BMW,BMW,Z4 sDrive35i,3.0,6,Manual,19,26,21,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Two Seaters,01/04/2014,476,340,415
+2015,BMW,BMW,Z4 sDrive35is,3.0,6,Auto,17,24,20,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,01/04/2014,518,376,454
+2015,Volkswagen Group of,Bugatti,Veyron,8.0,16,Auto,8,15,10,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,23/05/2014,1050,599,847
+2015,General Motors,Chevrolet,CORVETTE,6.2,8,Manual,17,29,21,Naturally Aspirated,Manual,7,"2-Wheel Drive, Rear",Two Seaters,10/07/2014,517,310,424
+2015,Jaguar Land Rover L,Jaguar,F-TYPE R Coupe,5.0,8,Auto,16,23,18,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Two Seaters,30/01/2014,570,386,487
+2015,Jaguar Land Rover L,Jaguar,F-TYPE V8 S Convertible,5.0,8,Auto,16,23,18,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Two Seaters,30/01/2014,570,386,487
+2015,Volkswagen Group of,Lamborghini,Aventador Coupe,6.5,12,Auto,11,18,13,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,04/07/2014,836,481,676
+2015,Volkswagen Group of,Lamborghini,Aventador Roadster,6.5,12,Auto,10,16,12,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,04/07/2014,902,547,742
+2015,Volkswagen Group of,Lamborghini,Huracan,5.2,10,Auto,14,20,16,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,12/05/2014,629,441,544
+2015,Volkswagen Group of,Lamborghini,Veneno Roadster,6.5,12,Auto,11,17,13,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Two Seaters,04/07/2014,831,523,692
+2015,MAZDA,MAZDA,MX-5,2.0,4,Auto,21,28,23,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Two Seaters,25/04/2014,423,316,375
+2015,MAZDA,MAZDA,MX-5,2.0,4,Manual,22,28,25,Naturally Aspirated,Manual,5,"2-Wheel Drive, Rear",Two Seaters,25/04/2014,390,315,356
+2015,MAZDA,MAZDA,MX-5,2.0,4,Manual,21,28,24,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,25/04/2014,411,314,368
+2015,Mercedes-Benz,Mercedes-Benz,SL 400,3.0,8,Auto,20,27,23,Turbocharged,Automatic,7,"2-Wheel Drive, Rear",Two Seaters,25/07/2014,444,327,392
+2015,Mercedes-Benz,Mercedes-Benz,SL 550,4.7,8,Auto,17,24,20,Turbocharged,Automatic,7,"2-Wheel Drive, Rear",Two Seaters,15/07/2014,506,364,442
+2015,Mercedes-Benz,Mercedes-Benz,SL 65 AMG,6.0,12,Auto,14,21,17,Turbocharged,Automatic,7,"2-Wheel Drive, Rear",Two Seaters,14/07/2014,633,423,539
+2015,Mercedes-Benz,Mercedes-Benz,SLK 250,1.8,4,Auto,23,33,26,Turbocharged,Automatic,7,"2-Wheel Drive, Rear",Two Seaters,10/07/2014,393,273,339
+2015,Mercedes-Benz,Mercedes-Benz,SLK 250,1.8,4,Manual,22,32,26,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Two Seaters,10/07/2014,397,276,343
+2015,Mercedes-Benz,Mercedes-Benz,SLK 350,3.5,6,Auto,21,29,24,Naturally Aspirated,Automatic,7,"2-Wheel Drive, Rear",Two Seaters,14/07/2014,419,307,368
+2015,Mercedes-Benz,Mercedes-Benz,SLS AMG GT Coupe,6.2,8,Auto,13,19,15,Naturally Aspirated,Automated Manual,7,"2-Wheel Drive, Rear",Two Seaters,22/04/2014,688,475,592
+2015,Mercedes-Benz,Mercedes-Benz,SLS AMG GT Roadster,6.2,8,Auto,13,19,15,Naturally Aspirated,Automated Manual,7,"2-Wheel Drive, Rear",Two Seaters,22/04/2014,688,475,592
+2015,Mercedes-Benz,Mercedes-Benz,Smart fortwo (Convertible),1.0,3,Auto,34,38,36,Naturally Aspirated,Automated Manual,5,"2-Wheel Drive, Rear",Two Seaters,03/06/2014,256,228,244
+2015,Mercedes-Benz,Mercedes-Benz,Smart fortwo (COUPE),1.0,3,Auto,34,38,36,Naturally Aspirated,Automated Manual,5,"2-Wheel Drive, Rear",Two Seaters,03/06/2014,256,228,244
+2015,BMW,Mini,Mini Cooper Coupe,1.6,4,Auto,28,36,31,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Two Seaters,27/03/2014,321,246,287
+2015,BMW,Mini,Mini Cooper Coupe,1.6,4,Manual,29,37,32,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Two Seaters,27/03/2014,303,241,275
+2015,BMW,Mini,Mini Cooper Roadster,1.6,4,Auto,26,34,29,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Two Seaters,27/03/2014,335,257,300
+2015,BMW,Mini,Mini Cooper Roadster,1.6,4,Manual,27,34,30,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Two Seaters,27/03/2014,327,264,298
+2015,BMW,Mini,Mini Cooper S Coupe,1.6,4,Auto,25,34,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Two Seaters,27/03/2014,352,264,312
+2015,BMW,Mini,Mini Cooper S Coupe,1.6,4,Manual,26,35,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Two Seaters,28/03/2014,340,255,302
+2015,BMW,Mini,Mini Cooper S Roadster,1.6,4,Auto,25,34,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Two Seaters,27/03/2014,352,264,312
+2015,BMW,Mini,Mini Cooper S Roadster,1.6,4,Manual,26,35,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Two Seaters,28/03/2014,340,255,302
+2015,BMW,Mini,Mini John Cooper Works Coupe,1.6,4,Auto,25,34,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Two Seaters,27/03/2014,352,264,312
+2015,BMW,Mini,Mini John Cooper Works Coupe,1.6,4,Manual,26,35,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Two Seaters,28/03/2014,340,255,302
+2015,BMW,Mini,Mini John Cooper Works Roadster,1.6,4,Auto,25,34,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Two Seaters,27/03/2014,352,264,312
+2015,BMW,Mini,Mini John Cooper Works Roadster,1.6,4,Manual,26,35,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Two Seaters,28/03/2014,340,255,302
+2015,Nissan,NISSAN,370Z,3.7,6,Auto,19,26,21,Naturally Aspirated,Semi-Automatic,7,"2-Wheel Drive, Rear",Two Seaters,03/07/2014,476,343,416
+2015,Nissan,NISSAN,370Z,3.7,6,Manual,18,26,21,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,03/07/2014,500,348,432
+2015,Nissan,NISSAN,370Z Roadster,3.7,6,Auto,18,25,21,Naturally Aspirated,Semi-Automatic,7,"2-Wheel Drive, Rear",Two Seaters,03/07/2014,492,361,433
+2015,Nissan,NISSAN,370Z Roadster,3.7,6,Manual,17,24,20,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,03/07/2014,513,364,446
+2015,Porsche,Porsche,911 GT3,3.8,6,Auto,15,20,17,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,606,434,529
+2015,Porsche,Porsche,Boxster,2.7,6,Auto,22,32,26,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,406,279,349
+2015,Porsche,Porsche,Boxster,2.7,6,Manual,20,30,24,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,434,301,374
+2015,Porsche,Porsche,Boxster GTS,3.4,6,Auto,22,31,25,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,412,289,357
+2015,Porsche,Porsche,Boxster GTS,3.4,6,Manual,19,26,22,Naturally Aspirated,Manual,6,d,Two Seaters,23/06/2014,458,334,402
+2015,Porsche,Porsche,Boxster S,3.4,6,Auto,21,30,24,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,428,298,370
+2015,Porsche,Porsche,Boxster S,3.4,6,Manual,20,28,23,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,453,324,395
+2015,Porsche,Porsche,Cayman,2.7,6,Auto,22,32,26,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,406,279,349
+2015,Porsche,Porsche,Cayman,2.7,6,Manual,20,30,24,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,434,301,374
+2015,Porsche,Porsche,Cayman GTS,3.4,6,Auto,22,31,25,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,412,289,357
+2015,Porsche,Porsche,Cayman GTS,3.4,6,Manual,19,26,22,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,458,334,402
+2015,Porsche,Porsche,Cayman S,3.4,6,Auto,21,30,24,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,428,298,370
+2015,Porsche,Porsche,Cayman S,3.4,6,Manual,20,28,23,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Two Seaters,23/06/2014,453,324,395
+2015,aston martin,Aston Martin Lagonda Ltd,DB9,5.9,12,Auto,13,19,15,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Minicompact Cars,03/06/2014,679,475,587
+2015,Chrysler Group LLC,FIAT,500,1.4,4,Auto,27,34,30,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Minicompact Cars,23/06/2014,325,259,295
+2015,Chrysler Group LLC,FIAT,500,1.4,4,Auto,24,32,27,Turbocharged,Automatic,6,"2-Wheel Drive, Front",Minicompact Cars,23/06/2014,363,272,322
+2015,Chrysler Group LLC,FIAT,500,1.4,4,Manual,31,40,34,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Minicompact Cars,23/06/2014,289,224,260
+2015,Chrysler Group LLC,FIAT,500,1.4,4,Manual,28,34,30,Turbocharged,Manual,5,"2-Wheel Drive, Front",Minicompact Cars,23/06/2014,321,263,295
+2015,Chrysler Group LLC,FIAT,500 Abarth,1.4,4,Auto,24,32,27,Turbocharged,Automatic,6,"2-Wheel Drive, Front",Minicompact Cars,23/06/2014,363,272,322
+2015,Chrysler Group LLC,FIAT,500 Abarth,1.4,4,Manual,28,34,30,Turbocharged,Manual,5,"2-Wheel Drive, Front",Minicompact Cars,23/06/2014,321,263,295
+2015,Jaguar Land Rover L,Jaguar,XK,5.0,8,Auto,16,24,19,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Minicompact Cars,30/01/2014,556,373,474
+2015,Jaguar Land Rover L,Jaguar,XK,5.0,8,Auto,15,22,18,Supercharged,Semi-Automatic,6,"2-Wheel Drive, Rear",Minicompact Cars,30/01/2014,588,411,508
+2015,Jaguar Land Rover L,Jaguar,XK Convertible,5.0,8,Auto,16,22,18,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Minicompact Cars,30/01/2014,565,398,490
+2015,Jaguar Land Rover L,Jaguar,XK Convertible,5.0,8,Auto,15,22,17,Supercharged,Semi-Automatic,6,"2-Wheel Drive, Rear",Minicompact Cars,30/01/2014,601,411,515
+2015,BMW,Mini,Mini Cooper Convertible,1.6,4,Auto,26,34,29,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Minicompact Cars,27/03/2014,335,257,300
+2015,BMW,Mini,Mini Cooper Convertible,1.6,4,Manual,27,34,30,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Minicompact Cars,27/03/2014,327,264,298
+2015,BMW,Mini,Mini Cooper S Convertible,1.6,4,Auto,25,34,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Minicompact Cars,27/03/2014,352,264,312
+2015,BMW,Mini,Mini Cooper S Convertible,1.6,4,Manual,26,35,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Minicompact Cars,28/03/2014,340,255,302
+2015,BMW,Mini,Mini John Cooper Works Conv.,1.6,4,Auto,25,34,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Minicompact Cars,27/03/2014,352,264,312
+2015,BMW,Mini,Mini John Cooper Works Conv.,1.6,4,Manual,26,35,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Minicompact Cars,28/03/2014,340,255,302
+2015,Porsche,Porsche,911 Carrera,3.4,6,Auto,20,28,23,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Minicompact Cars,23/06/2014,441,315,384
+2015,Porsche,Porsche,911 Carrera,3.4,6,Manual,19,27,22,Naturally Aspirated,Manual,7,"2-Wheel Drive, Rear",Minicompact Cars,23/06/2014,473,326,407
+2015,Porsche,Porsche,911 Carrera 4,3.4,6,Auto,20,28,23,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,4-Wheel Drive,Minicompact Cars,23/06/2014,440,322,387
+2015,Porsche,Porsche,911 Carrera 4,3.4,6,Manual,19,27,22,Naturally Aspirated,Manual,7,4-Wheel Drive,Minicompact Cars,23/06/2014,466,329,404
+2015,Porsche,Porsche,911 Carrera 4 Cabriolet,3.4,6,Auto,20,27,22,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,4-Wheel Drive,Minicompact Cars,23/06/2014,449,331,396
+2015,Porsche,Porsche,911 Carrera 4 Cabriolet,3.4,6,Manual,19,26,22,Naturally Aspirated,Manual,7,4-Wheel Drive,Minicompact Cars,23/06/2014,473,340,413
+2015,Porsche,Porsche,911 Carrera 4S,3.8,6,Auto,19,26,22,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,4-Wheel Drive,Minicompact Cars,23/06/2014,462,338,406
+2015,Porsche,Porsche,911 Carrera 4S,3.8,6,Manual,18,26,21,Naturally Aspirated,Manual,7,4-Wheel Drive,Minicompact Cars,23/06/2014,482,336,416
+2015,Porsche,Porsche,911 Carrera 4S Cabriolet,3.8,6,Auto,19,26,21,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,4-Wheel Drive,Minicompact Cars,23/06/2014,480,341,417
+2015,Porsche,Porsche,911 Carrera 4S Cabriolet,3.8,6,Manual,18,26,21,Naturally Aspirated,Manual,7,4-Wheel Drive,Minicompact Cars,23/06/2014,487,344,423
+2015,Porsche,Porsche,911 Carrera Cabriolet,3.4,6,Auto,21,28,23,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Minicompact Cars,23/06/2014,433,315,380
+2015,Porsche,Porsche,911 Carrera Cabriolet,3.4,6,Manual,19,27,22,Naturally Aspirated,Manual,7,"2-Wheel Drive, Rear",Minicompact Cars,23/06/2014,465,328,404
+2015,Porsche,Porsche,911 Carrera S,3.8,6,Auto,19,27,22,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Minicompact Cars,23/06/2014,455,328,398
+2015,Porsche,Porsche,911 Carrera S,3.8,6,Manual,19,27,22,Naturally Aspirated,Manual,7,"2-Wheel Drive, Rear",Minicompact Cars,23/06/2014,469,328,406
+2015,Porsche,Porsche,911 Carrera S Cabriolet,3.8,6,Auto,19,27,22,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Minicompact Cars,23/06/2014,468,328,405
+2015,Porsche,Porsche,911 Carrera S Cabriolet,3.8,6,Manual,19,27,22,Naturally Aspirated,Manual,7,"2-Wheel Drive, Rear",Minicompact Cars,23/06/2014,472,335,410
+2015,Porsche,Porsche,911 Targa 4,3.4,6,Auto,19,26,22,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,4-Wheel Drive,Minicompact Cars,23/06/2014,464,337,407
+2015,Porsche,Porsche,911 Targa 4,3.4,6,Manual,18,26,21,Naturally Aspirated,Manual,7,4-Wheel Drive,Minicompact Cars,23/06/2014,485,341,420
+2015,Porsche,Porsche,911 Targa 4S,3.8,6,Auto,18,25,21,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,4-Wheel Drive,Minicompact Cars,23/06/2014,483,350,423
+2015,Porsche,Porsche,911 Targa 4S,3.8,6,Manual,18,26,21,Naturally Aspirated,Manual,7,4-Wheel Drive,Minicompact Cars,23/06/2014,496,349,430
+2015,Porsche,Porsche,911 Turbo,3.8,6,Auto,17,24,20,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,4-Wheel Drive,Minicompact Cars,23/06/2014,518,363,448
+2015,Porsche,Porsche,911 Turbo S,3.8,6,Auto,17,24,20,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,4-Wheel Drive,Minicompact Cars,23/06/2014,518,363,448
+2015,Toyota,SCION,FR-S,2.0,4,Auto,25,34,28,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Minicompact Cars,22/05/2014,361,264,317
+2015,Toyota,SCION,FR-S,2.0,4,Manual,22,30,25,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Minicompact Cars,22/05/2014,411,297,360
+2015,Subaru,Subaru,BRZ,2.0,4,Auto,25,34,28,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Minicompact Cars,07/04/2014,361,264,317
+2015,Subaru,Subaru,BRZ,2.0,4,Manual,22,30,25,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Minicompact Cars,07/04/2014,411,298,360
+2015,Volkswagen Group of,Audi,A3,1.8,4,Auto,23,33,27,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Subcompact Cars,25/02/2014,379,267,328
+2015,Volkswagen Group of,Audi,A3,2.0,4,Auto,31,43,36,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Subcompact Cars,28/07/2014,326,236,285
+2015,Volkswagen Group of,Audi,A3 Cabriolet,1.8,4,Auto,24,35,28,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Subcompact Cars,02/06/2014,362,256,314
+2015,Volkswagen Group of,Audi,A3 Cabriolet quattro,2.0,4,Auto,23,32,26,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,All Wheel Drive,Subcompact Cars,02/06/2014,379,280,334
+2015,Volkswagen Group of,Audi,A3 quattro,2.0,4,Auto,24,33,27,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,All Wheel Drive,Subcompact Cars,15/01/2014,366,271,323
+2015,Volkswagen Group of,Audi,A5 Cabriolet quattro,2.0,4,Auto,20,28,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,09/06/2014,446,314,386
+2015,Volkswagen Group of,Audi,A5 quattro,2.0,4,Manual,22,32,26,Turbocharged,Manual,6,All Wheel Drive,Subcompact Cars,09/06/2014,398,277,343
+2015,Volkswagen Group of,Audi,RS5,4.2,8,Auto,16,23,18,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Subcompact Cars,09/06/2014,562,379,480
+2015,Volkswagen Group of,Audi,RS5 Cabriolet,4.2,8,Auto,16,22,18,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Subcompact Cars,09/06/2014,558,398,486
+2015,Volkswagen Group of,Audi,S3,2.0,4,Auto,23,31,26,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,All Wheel Drive,Subcompact Cars,04/08/2014,381,289,340
+2015,Volkswagen Group of,Audi,S5,3.0,6,Auto,18,28,21,Supercharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Subcompact Cars,09/06/2014,488,321,413
+2015,Volkswagen Group of,Audi,S5,3.0,6,Manual,17,26,20,Supercharged,Manual,6,All Wheel Drive,Subcompact Cars,09/06/2014,519,341,439
+2015,Volkswagen Group of,Audi,S5 Cabriolet,3.0,6,Auto,18,26,21,Supercharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Subcompact Cars,09/06/2014,500,341,428
+2015,Volkswagen Group of,Audi,TT Coupe quattro,2.0,4,Auto,22,31,26,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,All Wheel Drive,Subcompact Cars,15/01/2014,395,284,345
+2015,Volkswagen Group of,Bentley,Continental GT Convertible,4.0,8,Auto,14,24,17,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,28/03/2014,638,370,517
+2015,Volkswagen Group of,Bentley,Continental GT Convertible,6.0,12,Auto,12,20,15,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,15/05/2014,736,443,604
+2015,BMW,BMW,228i,2.0,4,Auto,23,36,28,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,15/07/2014,378,248,320
+2015,BMW,BMW,228i,2.0,4,Manual,22,34,26,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Subcompact Cars,16/07/2014,406,261,341
+2015,BMW,BMW,228i xDrive,2.0,4,Auto,23,35,27,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,16/07/2014,389,255,329
+2015,BMW,BMW,428i Convertible,2.0,4,Auto,23,34,27,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,04/04/2014,391,265,334
+2015,BMW,BMW,435i Convertible,3.0,6,Auto,20,31,24,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,24/07/2014,443,288,374
+2015,BMW,BMW,435i xDrive Convertible,3.0,6,Auto,20,29,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,24/07/2014,448,302,382
+2015,BMW,BMW,640i Convertible,3.0,6,Auto,20,31,24,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,10/04/2014,443,288,374
+2015,BMW,BMW,640i Coupe,3.0,6,Auto,21,32,25,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,09/04/2014,423,278,358
+2015,BMW,BMW,640i xDrive Convertible,3.0,6,Auto,20,29,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,10/04/2014,448,302,382
+2015,BMW,BMW,640i xDrive Coupe,3.0,6,Auto,20,29,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,10/04/2014,448,302,382
+2015,BMW,BMW,650i Convertible,4.4,8,Auto,17,25,20,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,17/04/2014,505,360,440
+2015,BMW,BMW,650i Coupe,4.4,8,Auto,17,25,20,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,17/04/2014,505,360,440
+2015,BMW,BMW,650i xDrive Convertible,4.4,8,Auto,16,24,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,17/04/2014,566,369,477
+2015,BMW,BMW,650i xDrive Coupe,4.4,8,Auto,16,25,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,17/04/2014,543,361,461
+2015,BMW,BMW,M235i,3.0,6,Auto,21,32,25,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,16/07/2014,423,278,358
+2015,BMW,BMW,M235i,3.0,6,Manual,19,28,22,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Subcompact Cars,16/07/2014,451,319,392
+2015,BMW,BMW,M235i xDrive,3.0,6,Auto,20,30,24,Turbocharged,Semi-Automatic,8,All Wheel Drive,Subcompact Cars,17/07/2014,444,294,377
+2015,BMW,BMW,M4 Convertible,3.0,6,Manual,17,26,20,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Subcompact Cars,01/06/2014,520,340,439
+2015,BMW,BMW,M6 Convertible,4.4,8,Auto,14,20,16,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Subcompact Cars,09/05/2014,652,435,554
+2015,BMW,BMW,M6 Convertible,4.4,8,Manual,15,22,17,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Subcompact Cars,09/05/2014,605,409,517
+2015,BMW,BMW,M6 Coupe,4.4,8,Auto,14,20,16,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Subcompact Cars,09/05/2014,652,435,554
+2015,BMW,BMW,M6 Coupe,4.4,8,Manual,15,22,17,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Subcompact Cars,09/05/2014,605,409,517
+2015,General Motors,Chevrolet,SPARK,1.2,4,Auto,30,39,34,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Subcompact Cars,30/04/2014,293,230,264
+2015,General Motors,Chevrolet,SPARK,1.2,4,Manual,31,39,34,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Subcompact Cars,30/04/2014,285,226,258
+2015,Ford Motor Company,Ford,Fiesta FWD,1.6,4,Auto,27,37,31,Naturally Aspirated,Automated Manual,6,"2-Wheel Drive, Front",Subcompact Cars,20/06/2014,328,242,289
+2015,Ford Motor Company,Ford,Fiesta FWD,1.6,4,Manual,28,36,31,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Subcompact Cars,01/08/2014,322,247,288
+2015,Ford Motor Company,Ford,Fiesta SFE FWD,1.0,4,Manual,31,43,36,Turbocharged,Manual,5,"2-Wheel Drive, Front",Subcompact Cars,20/06/2014,280,206,247
+2015,Ford Motor Company,Ford,Fiesta SFE FWD,1.6,4,Auto,28,38,32,Naturally Aspirated,Automated Manual,6,"2-Wheel Drive, Front",Subcompact Cars,20/06/2014,319,233,281
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Genesis Coupe,3.8,6,Auto,16,25,19,Naturally Aspirated,Semi-Automatic,8,"2-Wheel Drive, Rear",Subcompact Cars,20/05/2014,543,354,458
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Genesis Coupe,3.8,6,Manual,16,24,19,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Subcompact Cars,20/05/2014,535,368,460
+2015,Nissan,INFINITI,Q60,3.7,6,Auto,19,27,22,Naturally Aspirated,Semi-Automatic,7,"2-Wheel Drive, Rear",Subcompact Cars,17/07/2014,475,332,410
+2015,Nissan,INFINITI,Q60,3.7,6,Manual,17,25,20,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Subcompact Cars,17/07/2014,513,352,440
+2015,Nissan,INFINITI,Q60 AWD,3.7,6,Auto,18,25,20,Naturally Aspirated,Semi-Automatic,7,All Wheel Drive,Subcompact Cars,17/07/2014,502,354,436
+2015,Nissan,INFINITI,Q60 Convertible,3.7,6,Auto,18,26,20,Naturally Aspirated,Semi-Automatic,7,"2-Wheel Drive, Rear",Subcompact Cars,17/07/2014,508,349,436
+2015,Nissan,INFINITI,Q60 Convertible,3.7,6,Manual,16,24,19,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Subcompact Cars,17/07/2014,541,370,464
+2015,Mercedes-Benz,Mercedes-Benz,C 250 (Coupe),1.8,4,Auto,22,31,25,Turbocharged,Automatic,7,"2-Wheel Drive, Rear",Subcompact Cars,10/07/2014,411,282,353
+2015,Mercedes-Benz,Mercedes-Benz,C 350 (Coupe),3.5,6,Auto,20,28,23,Naturally Aspirated,Automatic,7,"2-Wheel Drive, Rear",Subcompact Cars,14/07/2014,440,311,382
+2015,Mercedes-Benz,Mercedes-Benz,C 350 4MATIC (Coupe),3.5,6,Auto,19,27,22,Naturally Aspirated,Automatic,7,4-Wheel Drive,Subcompact Cars,14/07/2014,457,326,398
+2015,Mercedes-Benz,Mercedes-Benz,C 63 AMG Coupe,6.2,8,Auto,13,19,15,Naturally Aspirated,Automatic,7,"2-Wheel Drive, Rear",Subcompact Cars,10/07/2014,674,461,578
+2015,Nissan,NISSAN,GT-R,3.8,6,Auto,16,23,19,Turbocharged,Automated Manual,6,All Wheel Drive,Subcompact Cars,03/01/2014,536,394,472
+2015,Volkswagen Group of,Volkswagen,Beetle Convertible,1.8,4,Auto,24,32,27,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Subcompact Cars,28/07/2014,369,274,326
+2015,Volkswagen Group of,Volkswagen,Beetle Convertible,2.0,4,Auto,23,29,25,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Subcompact Cars,28/07/2014,392,314,357
+2015,Volkswagen Group of,Volkswagen,Beetle Convertible,2.0,4,Manual,23,31,26,Turbocharged,Manual,6,"2-Wheel Drive, Front",Subcompact Cars,28/07/2014,393,292,347
+2015,Volkswagen Group of,Volkswagen,Eos,2.0,4,Auto,22,30,25,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Subcompact Cars,14/07/2014,405,292,354
+2015,Honda,Acura,ILX,2.0,4,Auto,24,35,28,Naturally Aspirated,Semi-Automatic,5,"2-Wheel Drive, Front",Compact Cars,20/06/2014,367,255,316
+2015,Honda,Acura,ILX,2.4,4,Manual,22,31,25,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,20/06/2014,403,284,350
+2015,Honda,Acura,TLX,2.4,4,Auto,24,35,28,Naturally Aspirated,Semi-Automatic,8,"2-Wheel Drive, Front",Compact Cars,25/07/2014,372,250,316
+2015,Volkswagen Group of,Audi,A4,2.0,4,Auto,24,32,27,Turbocharged,Selectable Continuously Variable (e.g. CVT with paddles),8,"2-Wheel Drive, Front",Compact Cars,09/06/2014,374,280,332
+2015,Volkswagen Group of,Audi,A4 quattro,2.0,4,Manual,22,32,26,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,09/06/2014,398,277,343
+2015,Volkswagen Group of,Audi,Q3,2.0,4,Auto,20,29,23,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,04/08/2014,451,313,389
+2015,Volkswagen Group of,Audi,Q3 quattro,2.0,4,Auto,20,28,23,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,04/08/2014,446,316,387
+2015,Volkswagen Group of,Audi,S4,3.0,6,Auto,18,28,21,Supercharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Compact Cars,09/06/2014,488,321,413
+2015,Volkswagen Group of,Audi,S4,3.0,6,Manual,17,26,20,Supercharged,Manual,6,All Wheel Drive,Compact Cars,09/06/2014,519,341,439
+2015,Volkswagen Group of,Bentley,Continental GT,4.0,8,Auto,15,25,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,28/03/2014,580,347,475
+2015,Volkswagen Group of,Bentley,Continental GT,6.0,12,Auto,12,21,15,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,15/05/2014,710,421,580
+2015,BMW,BMW,320i,2.0,4,Auto,24,36,28,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,14/07/2014,379,248,320
+2015,BMW,BMW,320i xDrive,2.0,4,Auto,23,35,27,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,16/07/2014,389,255,329
+2015,BMW,BMW,328i,2.0,4,Auto,23,35,27,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,15/07/2014,384,249,324
+2015,BMW,BMW,328i,2.0,4,Manual,22,34,26,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,16/07/2014,406,261,341
+2015,BMW,BMW,328i xDrive,2.0,4,Auto,22,33,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,18/07/2014,400,267,340
+2015,BMW,BMW,335i,3.0,6,Auto,21,32,25,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,25/07/2014,423,278,358
+2015,BMW,BMW,335i,3.0,6,Manual,20,30,24,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,23/07/2014,441,296,376
+2015,BMW,BMW,335i xDrive,3.0,6,Auto,20,30,24,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,24/07/2014,444,294,377
+2015,BMW,BMW,335i xDrive,3.0,6,Manual,20,28,23,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,25/07/2014,457,315,393
+2015,BMW,BMW,428i Coupe,2.0,4,Auto,23,35,27,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,15/07/2014,384,249,324
+2015,BMW,BMW,428i Coupe,2.0,4,Manual,22,34,26,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,16/07/2014,406,261,341
+2015,BMW,BMW,428i Gran Coupe,2.0,4,Auto,23,34,27,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,01/05/2014,391,265,334
+2015,BMW,BMW,428i xDrive Coupe,2.0,4,Auto,22,33,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,18/07/2014,400,267,340
+2015,BMW,BMW,428i xDrive Gran Coupe,2.0,4,Auto,22,32,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,01/06/2014,402,273,344
+2015,BMW,BMW,435i Coupe,3.0,6,Auto,21,32,25,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,25/07/2014,423,278,358
+2015,BMW,BMW,435i Coupe,3.0,6,Manual,20,30,24,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,23/07/2014,441,296,376
+2015,BMW,BMW,435i Gran Coupe,3.0,6,Auto,21,32,25,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,10/04/2014,423,278,358
+2015,BMW,BMW,435i xDrive Coupe,3.0,6,Auto,20,30,24,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,24/07/2014,444,294,377
+2015,BMW,BMW,435i xDrive Coupe,3.0,6,Manual,20,28,23,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,25/07/2014,457,315,393
+2015,BMW,BMW,435i xDrive Gran Coupe,3.0,6,Auto,20,31,24,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,01/06/2014,444,292,375
+2015,BMW,BMW,640i Gran Coupe,3.0,6,Auto,20,31,24,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,10/04/2014,443,288,374
+2015,BMW,BMW,640i xDrive Gran Coupe,3.0,6,Auto,20,29,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,10/04/2014,448,302,382
+2015,BMW,BMW,650i Gran Coupe,4.4,8,Auto,17,25,20,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,17/04/2014,505,360,440
+2015,BMW,BMW,650i xDrive Gran Coupe,4.4,8,Auto,16,24,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,17/04/2014,566,369,477
+2015,BMW,BMW,Alpina B6 Gran Coupe xDrive,4.4,8,Auto,16,24,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Compact Cars,17/04/2014,566,369,477
+2015,BMW,BMW,M3,3.0,6,Auto,17,24,19,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Compact Cars,01/06/2014,533,367,459
+2015,BMW,BMW,M3,3.0,6,Manual,17,26,20,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,01/06/2014,520,340,439
+2015,BMW,BMW,M4 Coupe,3.0,6,Auto,17,24,19,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Compact Cars,01/06/2014,533,367,459
+2015,BMW,BMW,M4 Coupe,3.0,6,Manual,17,26,20,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,01/06/2014,520,340,439
+2015,BMW,BMW,M6 Gran Coupe,4.4,8,Auto,14,20,16,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Compact Cars,09/05/2014,652,435,554
+2015,BMW,BMW,M6 Gran Coupe,4.4,8,Manual,15,22,17,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,09/05/2014,605,409,517
+2015,General Motors,Buick,VERANO,2.0,4,Auto,21,30,24,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,30/05/2014,431,297,371
+2015,General Motors,Buick,VERANO,2.0,4,Manual,20,31,24,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,30/05/2014,437,286,369
+2015,General Motors,Buick,VERANO,2.4,4,Auto,21,32,25,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,10/07/2014,418,277,355
+2015,General Motors,Cadillac,ATS,2.0,4,Auto,21,30,24,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Rear",Compact Cars,30/06/2014,419,301,366
+2015,General Motors,Cadillac,ATS,2.0,4,Manual,19,30,23,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,31/05/2014,459,299,387
+2015,General Motors,Cadillac,ATS,2.5,4,Auto,21,33,25,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Compact Cars,05/07/2014,418,273,353
+2015,General Motors,Cadillac,ATS,3.6,6,Auto,18,28,22,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Compact Cars,31/05/2014,484,319,410
+2015,General Motors,Cadillac,ATS AWD,2.0,4,Auto,20,28,23,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,30/06/2014,436,321,384
+2015,General Motors,Cadillac,ATS AWD,3.6,6,Auto,18,26,21,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Compact Cars,31/05/2014,483,336,417
+2015,General Motors,Chevrolet,CAMARO,3.6,6,Auto,19,30,22,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Compact Cars,30/06/2014,477,298,397
+2015,General Motors,Chevrolet,CAMARO,3.6,6,Auto,18,27,21,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Compact Cars,30/06/2014,504,332,427
+2015,General Motors,Chevrolet,CAMARO,3.6,6,Manual,17,28,20,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Compact Cars,30/06/2014,528,320,434
+2015,General Motors,Chevrolet,CAMARO,6.2,8,Auto,15,24,18,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Compact Cars,15/06/2014,575,368,482
+2015,General Motors,Chevrolet,CAMARO,6.2,8,Auto,12,18,14,Supercharged,Semi-Automatic,6,"2-Wheel Drive, Rear",Compact Cars,30/06/2014,760,499,643
+2015,General Motors,Chevrolet,CAMARO,6.2,8,Manual,16,24,19,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Compact Cars,30/06/2014,567,373,479
+2015,General Motors,Chevrolet,CAMARO,6.2,8,Manual,14,19,16,Supercharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,30/06/2014,628,469,557
+2015,General Motors,Chevrolet,CAMARO,6.2,8,Manual,14,19,16,Supercharged,Manual,6,"2-Wheel Drive, Rear",Compact Cars,30/06/2014,635,476,564
+2015,General Motors,Chevrolet,CAMARO,7.0,8,Manual,13,19,15,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Compact Cars,15/06/2014,680,463,582
+2015,General Motors,Chevrolet,SONIC,1.4,4,Auto,27,37,31,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,30/05/2014,330,243,291
+2015,General Motors,Chevrolet,SONIC,1.4,4,Manual,29,40,33,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,30/06/2014,310,223,271
+2015,General Motors,Chevrolet,SONIC,1.8,4,Auto,25,35,28,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,30/06/2014,362,252,312
+2015,General Motors,Chevrolet,SONIC,1.8,4,Manual,26,35,30,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Compact Cars,30/06/2014,338,255,301
+2015,General Motors,Chevrolet,SONIC RS,1.4,4,Auto,25,33,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,30/05/2014,356,269,317
+2015,General Motors,Chevrolet,SONIC RS,1.4,4,Manual,27,34,30,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,30/06/2014,327,261,298
+2015,Ford Motor Company,Ford,Fiesta ST FWD,1.6,4,Manual,26,35,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,20/06/2014,337,257,301
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Veloster,1.6,4,Auto,27,36,30,Naturally Aspirated,Automated Manual,6,"2-Wheel Drive, Front",Compact Cars,17/07/2014,321,247,288
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Veloster,1.6,4,Auto,24,31,27,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,17/07/2014,369,282,330
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Veloster,1.6,4,Manual,26,35,30,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,17/07/2014,335,250,297
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Veloster,1.6,4,Manual,24,33,28,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,17/07/2014,362,263,317
+2015,Kia,KIA MOTORS CORPORATION,Forte Koup,1.6,4,Auto,22,30,25,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,26/05/2014,397,292,350
+2015,Kia,KIA MOTORS CORPORATION,Forte Koup,1.6,4,Manual,22,29,25,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,26/05/2014,402,303,357
+2015,Kia,KIA MOTORS CORPORATION,Forte Koup,2.0,4,Auto,25,34,28,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,26/05/2014,356,262,314
+2015,Kia,KIA MOTORS CORPORATION,Forte Koup,2.0,4,Manual,24,33,27,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,26/05/2014,367,270,323
+2015,Kia,KIA MOTORS CORPORATION,Rio,1.6,4,Auto,27,37,31,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,09/07/2014,328,239,288
+2015,Kia,KIA MOTORS CORPORATION,Rio,1.6,4,Manual,27,37,31,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,09/07/2014,325,236,285
+2015,Toyota,LEXUS,IS 250,2.5,6,Auto,21,30,24,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Compact Cars,23/07/2014,417,292,361
+2015,Toyota,LEXUS,IS 250 AWD,2.5,6,Auto,20,27,23,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Compact Cars,23/07/2014,441,325,389
+2015,Toyota,LEXUS,IS 350,3.5,6,Auto,19,28,22,Naturally Aspirated,Semi-Automatic,8,"2-Wheel Drive, Rear",Compact Cars,23/07/2014,461,315,401
+2015,Toyota,LEXUS,IS 350 AWD,3.5,6,Auto,19,26,21,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Compact Cars,23/07/2014,475,337,413
+2015,MAZDA,MAZDA,MAZDA3 4-Door,2.0,4,Auto,30,41,34,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,07/07/2014,297,216,260
+2015,MAZDA,MAZDA,MAZDA3 4-Door,2.0,4,Manual,29,41,33,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,07/07/2014,303,218,265
+2015,MAZDA,MAZDA,MAZDA3 4-Door,2.5,4,Auto,28,39,32,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,07/07/2014,317,228,277
+2015,MAZDA,MAZDA,MAZDA3 4-Door,2.5,4,Auto,29,40,33,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,07/07/2014,309,224,271
+2015,MAZDA,MAZDA,MAZDA3 4-Door,2.5,4,Manual,25,37,29,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,07/07/2014,354,242,304
+2015,Mercedes-Benz,Mercedes-Benz,C 400 4MATIC,3.0,8,Auto,22,29,24,Turbocharged,Automatic,7,4-Wheel Drive,Compact Cars,25/07/2014,409,311,365
+2015,BMW,Mini,Mini Cooper Countryman,1.6,4,Auto,25,30,27,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,27/03/2014,355,296,328
+2015,BMW,Mini,Mini Cooper Countryman,1.6,4,Manual,27,34,30,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,27/03/2014,327,264,298
+2015,BMW,Mini,Mini Cooper Paceman,1.6,4,Auto,25,30,27,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,27/03/2014,355,296,328
+2015,BMW,Mini,Mini Cooper Paceman,1.6,4,Manual,27,34,30,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,27/03/2014,327,264,298
+2015,BMW,Mini,Mini Cooper S Countryman,1.6,4,Auto,25,32,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,27/03/2014,352,275,318
+2015,BMW,Mini,Mini Cooper S Countryman,1.6,4,Manual,26,32,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,28/03/2014,337,275,309
+2015,BMW,Mini,Mini Cooper S Countryman All4,1.6,4,Auto,23,30,26,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,27/03/2014,380,292,340
+2015,BMW,Mini,Mini Cooper S Countryman All4,1.6,4,Manual,25,31,27,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,28/03/2014,353,287,323
+2015,BMW,Mini,Mini Cooper S Paceman,1.6,4,Auto,25,32,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,27/03/2014,352,275,318
+2015,BMW,Mini,Mini Cooper S Paceman,1.6,4,Manual,26,32,29,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,28/03/2014,337,275,309
+2015,BMW,Mini,Mini Cooper S Paceman ALL4,1.6,4,Auto,23,30,26,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,27/03/2014,380,292,340
+2015,BMW,Mini,Mini Cooper S Paceman ALL4,1.6,4,Manual,25,31,27,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,28/03/2014,353,287,323
+2015,BMW,Mini,Mini JCW Countryman ALL4,1.6,4,Auto,23,30,26,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,27/03/2014,380,292,340
+2015,BMW,Mini,Mini JCW Countryman ALL4,1.6,4,Manual,25,31,27,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,28/03/2014,353,287,323
+2015,BMW,Mini,Mini JCW Paceman ALL4,1.6,4,Auto,23,30,26,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,27/03/2014,380,292,340
+2015,BMW,Mini,Mini JCW Paceman ALL4,1.6,4,Manual,25,31,27,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,28/03/2014,353,287,323
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,LANCER,2.0,4,Auto,26,34,29,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,"2-Wheel Drive, Front",Compact Cars,01/08/2014,343,260,306
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,LANCER,2.0,4,Manual,25,34,28,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Compact Cars,01/08/2014,359,259,314
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,LANCER,2.4,4,Auto,23,30,26,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,"2-Wheel Drive, Front",Compact Cars,01/08/2014,385,294,344
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,LANCER,2.4,4,Manual,22,31,26,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Compact Cars,01/08/2014,394,287,346
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,LANCER AWD,2.4,4,Auto,22,29,25,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,All Wheel Drive,Compact Cars,01/08/2014,397,310,358
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE,1.2,3,Auto,37,44,40,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Compact Cars,01/06/2014,241,199,222
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,MIRAGE,1.2,3,Manual,34,42,37,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Compact Cars,01/06/2014,262,208,238
+2015,Nissan,NISSAN,VERSA,1.6,4,Auto,26,35,30,Naturally Aspirated,Automatic,4,"2-Wheel Drive, Front",Compact Cars,22/04/2014,341,254,297
+2015,Nissan,NISSAN,VERSA,1.6,4,Auto,31,40,35,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Compact Cars,22/04/2014,282,223,255
+2015,Nissan,NISSAN,VERSA,1.6,4,Manual,27,36,30,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Compact Cars,22/04/2014,328,247,296
+2015,Toyota,SCION,tC,2.5,4,Auto,23,31,26,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,30/05/2014,384,284,339
+2015,Toyota,SCION,tC,2.5,4,Manual,23,31,26,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Compact Cars,30/05/2014,381,287,339
+2015,Subaru,Subaru,WRX,2.0,4,Auto,19,25,21,Turbocharged,Selectable Continuously Variable (e.g. CVT with paddles),8,All Wheel Drive,Compact Cars,17/01/2014,454,346,405
+2015,Subaru,Subaru,WRX,2.0,4,Manual,21,28,24,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,17/01/2014,419,313,371
+2015,Subaru,Subaru,WRX,2.5,4,Manual,17,23,19,Turbocharged,Manual,6,All Wheel Drive,Compact Cars,17/01/2014,520,383,458
+2015,Toyota,TOYOTA,YARIS,1.5,4,Auto,30,36,32,Naturally Aspirated,Automatic,4,"2-Wheel Drive, Front",Compact Cars,16/07/2014,293,249,273
+2015,Toyota,TOYOTA,YARIS,1.5,4,Manual,30,37,33,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Compact Cars,16/07/2014,290,237,266
+2015,Volkswagen Group of,Volkswagen,Beetle,1.8,4,Auto,25,33,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,357,270,318
+2015,Volkswagen Group of,Volkswagen,Beetle,1.8,4,Manual,24,33,27,Turbocharged,Manual,5,"2-Wheel Drive, Front",Compact Cars,28/07/2014,372,270,326
+2015,Volkswagen Group of,Volkswagen,Beetle,2.0,4,Auto,24,30,26,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,377,302,343
+2015,Volkswagen Group of,Volkswagen,Beetle,2.0,4,Manual,23,31,26,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,393,292,347
+2015,Volkswagen Group of,Volkswagen,CC,2.0,4,Auto,22,31,25,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Compact Cars,14/07/2014,402,284,349
+2015,Volkswagen Group of,Volkswagen,CC,2.0,4,Manual,21,32,25,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,14/07/2014,428,278,361
+2015,Volkswagen Group of,Volkswagen,CC 4Motion,3.6,6,Auto,17,25,20,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Compact Cars,14/07/2014,523,351,446
+2015,Volkswagen Group of,Volkswagen,Golf,1.8,4,Auto,25,36,29,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,352,247,305
+2015,Volkswagen Group of,Volkswagen,Golf,1.8,4,Manual,25,37,30,Turbocharged,Manual,5,"2-Wheel Drive, Front",Compact Cars,28/07/2014,350,240,300
+2015,Volkswagen Group of,Volkswagen,Golf,2.0,4,Auto,31,43,36,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,326,236,285
+2015,Volkswagen Group of,Volkswagen,Golf,2.0,4,Manual,31,45,36,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,331,224,283
+2015,Volkswagen Group of,Volkswagen,GTI,2.0,4,Auto,25,33,28,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Compact Cars,01/04/2014,358,271,319
+2015,Volkswagen Group of,Volkswagen,GTI,2.0,4,Manual,25,34,28,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,01/04/2014,355,258,311
+2015,Volkswagen Group of,Volkswagen,Jetta,2.0,4,Auto,24,32,27,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,379,281,334
+2015,Volkswagen Group of,Volkswagen,Jetta,2.0,4,Auto,31,45,36,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Compact Cars,04/08/2014,324,228,281
+2015,Volkswagen Group of,Volkswagen,Jetta,2.0,4,Manual,31,46,36,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,332,223,283
+2015,Volkswagen Group of,Volkswagen,Jetta,2.0,4,Manual,23,33,26,Turbocharged,Manual,6,"2-Wheel Drive, Front",Compact Cars,28/07/2014,389,274,338
+2015,Volvo,"Volvo Cars of North America, LLC",S60 AWD,2.5,5,Auto,20,29,23,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,03/01/2014,432,306,375
+2015,Volvo,"Volvo Cars of North America, LLC",S60 AWD,3.0,6,Auto,19,28,22,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,03/01/2014,461,317,396
+2015,Volvo,"Volvo Cars of North America, LLC",S60 FWD,2.0,4,Auto,25,37,29,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Front",Compact Cars,03/01/2014,357,243,306
+2015,Volvo,"Volvo Cars of North America, LLC",S60 FWD,2.0,4,Auto,24,35,28,Turbocharged+Supercharged,Semi-Automatic,8,"2-Wheel Drive, Front",Compact Cars,03/01/2014,377,257,323
+2015,Volvo,"Volvo Cars of North America, LLC",S60 PoleStar AWD,3.0,6,Auto,18,27,21,Turbocharged,Semi-Automatic,6,All Wheel Drive,Compact Cars,02/05/2014,478,323,408
+2015,Honda,Acura,RLX,3.5,6,Auto,20,31,24,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,03/06/2014,451,290,378
+2015,Volkswagen Group of,Audi,A6,2.0,4,Auto,25,33,28,Turbocharged,Selectable Continuously Variable (e.g. CVT with paddles),8,"2-Wheel Drive, Front",Midsize Cars,09/06/2014,360,272,320
+2015,Volkswagen Group of,Audi,A6 quattro,2.0,4,Auto,20,29,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,09/06/2014,452,306,386
+2015,Volkswagen Group of,Audi,A6 quattro,3.0,6,Auto,18,27,22,Supercharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,09/06/2014,482,326,412
+2015,Volkswagen Group of,Audi,A6 quattro,3.0,6,Auto,24,38,29,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,10/06/2014,416,267,349
+2015,Volkswagen Group of,Audi,A7 quattro,3.0,6,Auto,18,28,21,Supercharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,09/06/2014,493,321,416
+2015,Volkswagen Group of,Audi,A7 quattro,3.0,6,Auto,24,38,29,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,10/06/2014,416,267,349
+2015,Volkswagen Group of,Audi,A8,3.0,6,Auto,19,29,22,Supercharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,15/05/2014,473,303,397
+2015,Volkswagen Group of,Audi,A8,4.0,8,Auto,18,30,22,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,15/05/2014,484,299,401
+2015,Volkswagen Group of,Audi,RS7,4.0,8,Auto,15,25,18,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,28/07/2014,614,355,497
+2015,Volkswagen Group of,Audi,S6,4.0,8,Auto,17,27,20,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Midsize Cars,02/06/2014,531,330,441
+2015,Volkswagen Group of,Audi,S7,4.0,8,Auto,17,27,20,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Midsize Cars,02/06/2014,531,330,441
+2015,Volkswagen Group of,Audi,S8,4.0,8,Auto,17,27,20,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,15/05/2014,534,331,442
+2015,Volkswagen Group of,Bentley,Flying Spur,4.0,8,Auto,14,24,17,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,28/03/2014,638,370,517
+2015,Volkswagen Group of,Bentley,Flying Spur,6.0,12,Auto,12,20,15,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,15/05/2014,736,443,604
+2015,Volkswagen Group of,Bentley,Mulsanne,6.8,8,Auto,11,18,13,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,01/05/2014,840,501,688
+2015,BMW,BMW,528i,2.0,4,Auto,23,34,27,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,04/04/2014,391,265,334
+2015,BMW,BMW,528i xDrive,2.0,4,Auto,22,33,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,18/07/2014,400,267,340
+2015,BMW,BMW,535i,3.0,6,Auto,20,31,24,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,22/07/2014,443,288,374
+2015,BMW,BMW,535i xDrive,3.0,6,Auto,20,29,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,22/07/2014,448,302,382
+2015,BMW,BMW,550i,4.4,8,Auto,17,25,20,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,01/08/2014,505,356,438
+2015,BMW,BMW,550i xDrive,4.4,8,Auto,16,25,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,28/07/2014,543,361,461
+2015,BMW,BMW,M5,4.4,8,Auto,14,20,16,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Midsize Cars,01/06/2014,652,435,554
+2015,BMW,BMW,M5,4.4,8,Manual,15,22,17,Turbocharged,Manual,6,"2-Wheel Drive, Rear",Midsize Cars,02/06/2014,605,409,517
+2015,General Motors,Buick,LACROSSE,2.4,4,Auto,25,36,29,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,362,246,310
+2015,General Motors,Buick,LACROSSE,3.6,6,Auto,18,28,21,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,499,318,417
+2015,General Motors,Buick,LACROSSE,3.6,6,Auto,18,28,21,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,493,317,422
+2015,General Motors,Buick,LACROSSE AWD,3.6,6,Auto,17,26,20,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Midsize Cars,30/05/2014,524,344,443
+2015,General Motors,Buick,REGAL,2.0,4,Auto,21,30,24,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,31/05/2014,431,297,371
+2015,General Motors,Buick,REGAL,2.0,4,Manual,20,31,24,Turbocharged,Manual,6,"2-Wheel Drive, Front",Midsize Cars,31/05/2014,437,286,369
+2015,General Motors,Buick,REGAL,2.4,4,Auto,25,36,29,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,362,246,310
+2015,General Motors,Buick,REGAL,2.4,4,Auto,19,31,23,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,05/06/2014,455,285,379
+2015,General Motors,Buick,REGAL AWD,2.0,4,Auto,19,27,22,Turbocharged,Semi-Automatic,6,All Wheel Drive,Midsize Cars,31/05/2014,468,328,405
+2015,General Motors,Cadillac,CTS,6.2,8,Auto,12,18,14,Supercharged,Semi-Automatic,6,"2-Wheel Drive, Rear",Midsize Cars,06/06/2014,760,499,643
+2015,General Motors,Cadillac,CTS,6.2,8,Manual,14,19,16,Supercharged,Manual,6,"2-Wheel Drive, Rear",Midsize Cars,06/06/2014,635,476,564
+2015,General Motors,Cadillac,CTS SEDAN,2.0,4,Auto,20,30,24,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Rear",Midsize Cars,31/07/2014,435,295,372
+2015,General Motors,Cadillac,CTS SEDAN,3.6,6,Auto,16,24,18,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,15/06/2014,568,374,481
+2015,General Motors,Cadillac,CTS SEDAN,3.6,6,Auto,18,29,22,Naturally Aspirated,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,30/06/2014,483,310,405
+2015,General Motors,Cadillac,CTS SEDAN AWD,2.0,4,Auto,19,28,22,Turbocharged,Semi-Automatic,6,All Wheel Drive,Midsize Cars,09/07/2014,468,321,404
+2015,General Motors,Cadillac,CTS SEDAN AWD,3.6,6,Auto,18,26,21,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Midsize Cars,31/05/2014,483,336,417
+2015,General Motors,Chevrolet,CRUZE,1.4,4,Auto,26,38,30,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,344,236,296
+2015,General Motors,Chevrolet,CRUZE,1.4,4,Manual,26,38,30,Turbocharged,Manual,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,340,236,293
+2015,General Motors,Chevrolet,CRUZE,1.8,4,Auto,22,35,27,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,397,254,333
+2015,General Motors,Chevrolet,CRUZE,1.8,4,Manual,25,36,29,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,342,247,299
+2015,General Motors,Chevrolet,MALIBU,2.0,4,Auto,21,30,24,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,431,297,371
+2015,General Motors,Chevrolet,MALIBU,2.5,4,Auto,25,36,29,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,07/05/2014,351,247,307
+2015,General Motors,Chevrolet,SONIC 5,1.4,4,Auto,27,37,31,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,330,243,291
+2015,General Motors,Chevrolet,SONIC 5,1.4,4,Manual,29,40,33,Turbocharged,Manual,6,"2-Wheel Drive, Front",Midsize Cars,30/06/2014,310,223,271
+2015,General Motors,Chevrolet,SONIC 5,1.8,4,Auto,25,35,28,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/06/2014,362,252,312
+2015,General Motors,Chevrolet,SONIC 5,1.8,4,Manual,26,35,30,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Midsize Cars,30/06/2014,338,255,301
+2015,General Motors,Chevrolet,SONIC 5 RS,1.4,4,Auto,25,33,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,30/05/2014,356,269,317
+2015,General Motors,Chevrolet,SONIC 5 RS,1.4,4,Manual,27,34,30,Turbocharged,Manual,6,"2-Wheel Drive, Front",Midsize Cars,30/06/2014,327,261,298
+2015,Chrysler Group LLC,Chrysler,200,2.4,4,Auto,23,36,28,Naturally Aspirated,Automatic,9,"2-Wheel Drive, Front",Midsize Cars,27/03/2014,384,246,322
+2015,Chrysler Group LLC,Chrysler,200,2.4,4,Auto,23,36,28,Naturally Aspirated,Automatic,9,"2-Wheel Drive, Front",Midsize Cars,21/07/2014,384,246,322
+2015,Chrysler Group LLC,Chrysler,200,3.6,6,Auto,19,32,23,Naturally Aspirated,Automatic,9,"2-Wheel Drive, Front",Midsize Cars,26/03/2014,469,283,385
+2015,Chrysler Group LLC,Chrysler,200,3.6,6,Auto,19,32,23,Naturally Aspirated,Automatic,9,"2-Wheel Drive, Front",Midsize Cars,21/07/2014,469,283,385
+2015,Chrysler Group LLC,Chrysler,200 AWD,3.6,6,Auto,18,29,22,Naturally Aspirated,Automatic,9,All Wheel Drive,Midsize Cars,17/03/2014,482,306,403
+2015,Chrysler Group LLC,Chrysler,200 AWD,3.6,6,Auto,18,29,22,Naturally Aspirated,Automatic,9,All Wheel Drive,Midsize Cars,21/07/2014,482,306,403
+2015,Chrysler Group LLC,Dodge,Challenger,3.6,6,Auto,19,30,23,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,21/07/2014,466,296,389
+2015,Chrysler Group LLC,Dodge,Challenger,5.7,8,Auto,16,25,19,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,21/07/2014,558,352,465
+2015,Chrysler Group LLC,Dodge,Challenger,5.7,8,Manual,15,23,18,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Midsize Cars,21/07/2014,590,379,495
+2015,Chrysler Group LLC,Dodge,Challenger,6.4,8,Auto,15,25,18,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,21/07/2014,591,357,486
+2015,Chrysler Group LLC,Dodge,Challenger,6.4,8,Manual,14,23,17,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Midsize Cars,21/07/2014,632,392,524
+2015,Chrysler Group LLC,Dodge,Challenger SRT8,6.4,8,Auto,15,25,18,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,21/07/2014,591,357,486
+2015,Chrysler Group LLC,Dodge,Challenger SRT8,6.4,8,Manual,14,23,17,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Midsize Cars,21/07/2014,632,392,524
+2015,Ford Motor Company,Ford,FUSION AWD,2.0,4,Auto,22,31,25,Turbocharged,Semi-Automatic,6,All Wheel Drive,Midsize Cars,23/06/2014,410,284,354
+2015,Ford Motor Company,Ford,FUSION FWD,1.5,4,Auto,25,37,29,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,23/06/2014,356,238,303
+2015,Ford Motor Company,Ford,FUSION FWD,1.5,4,Auto,24,36,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,23/06/2014,374,247,316
+2015,Ford Motor Company,Ford,FUSION FWD,2.0,4,Auto,22,33,26,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,23/06/2014,396,267,338
+2015,Ford Motor Company,Ford,FUSION FWD,2.5,4,Auto,22,34,26,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,23/06/2014,399,264,338
+2015,Ford Motor Company,Ford,FUSION HYBRID FWD,2.0,4,Auto,44,41,42,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Midsize Cars,07/07/2014,202,218,209
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,1.8,4,Auto,28,38,32,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,01/06/2014,319,234,281
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,1.8,4,Manual,27,37,31,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Midsize Cars,01/06/2014,328,234,286
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,2.0,4,Auto,24,35,28,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,01/06/2014,363,255,314
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Elantra,2.0,4,Manual,24,34,28,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Midsize Cars,01/06/2014,364,263,319
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Elantra Limited,1.8,4,Auto,27,37,31,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,01/06/2014,329,243,290
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Sonata HYBRID,2.4,4,Auto,36,40,38,Naturally Aspirated,Automated Manual,6,"2-Wheel Drive, Front",Midsize Cars,12/06/2014,247,224,237
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Sonata HYBRID LIMITED,2.4,4,Auto,36,40,37,Naturally Aspirated,Automated Manual,6,"2-Wheel Drive, Front",Midsize Cars,12/06/2014,250,225,239
+2015,Jaguar Land Rover L,Jaguar,XF,2.0,4,Auto,19,30,23,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,12/05/2014,462,296,387
+2015,Jaguar Land Rover L,Jaguar,XF,3.0,6,Auto,18,28,22,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,09/07/2014,489,321,413
+2015,Jaguar Land Rover L,Jaguar,XF,5.0,8,Auto,15,23,18,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,30/01/2014,592,388,500
+2015,Jaguar Land Rover L,Jaguar,XF AWD,3.0,6,Auto,17,27,20,Supercharged,Semi-Automatic,8,All Wheel Drive,Midsize Cars,20/06/2014,524,329,437
+2015,Jaguar Land Rover L,Jaguar,XF FFV,5.0,8,Auto,15,23,18,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Midsize Cars,12/05/2014,592,388,500
+2015,Kia,KIA MOTORS CORPORATION,Forte,1.8,4,Auto,26,39,31,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,26/05/2014,337,230,289
+2015,Kia,KIA MOTORS CORPORATION,Forte,1.8,4,Manual,25,37,30,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Midsize Cars,26/05/2014,350,237,299
+2015,Kia,KIA MOTORS CORPORATION,Forte,2.0,4,Auto,25,36,29,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,26/05/2014,360,250,310
+2015,Kia,KIA MOTORS CORPORATION,OPTIMA,2.0,4,Auto,20,31,24,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,09/05/2014,437,286,369
+2015,Kia,KIA MOTORS CORPORATION,OPTIMA,2.4,4,Auto,23,34,27,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,09/05/2014,387,260,330
+2015,Kia,KIA MOTORS CORPORATION,Optima HYBRID,2.4,4,Auto,36,40,38,Naturally Aspirated,Automated Manual,6,"2-Wheel Drive, Front",Midsize Cars,01/08/2014,247,224,237
+2015,Kia,KIA MOTORS CORPORATION,Optima HYBRID EX,2.4,4,Auto,35,39,37,Naturally Aspirated,Automated Manual,6,"2-Wheel Drive, Front",Midsize Cars,01/08/2014,252,229,242
+2015,Ford Motor Company,Lincoln,MKZ AWD,2.0,4,Auto,22,31,25,Turbocharged,Semi-Automatic,6,All Wheel Drive,Midsize Cars,23/06/2014,410,284,354
+2015,Ford Motor Company,Lincoln,MKZ AWD,3.7,6,Auto,18,26,21,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Midsize Cars,07/07/2014,493,348,427
+2015,Ford Motor Company,Lincoln,MKZ FWD,2.0,4,Auto,22,33,26,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,23/06/2014,396,267,338
+2015,Ford Motor Company,Lincoln,MKZ FWD,3.7,6,Auto,18,27,22,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,07/07/2014,483,327,413
+2015,Ford Motor Company,Lincoln,MKZ HYBRID FWD,2.0,4,Auto,41,39,40,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Midsize Cars,02/07/2014,216,228,222
+2015,MAZDA,MAZDA,MAZDA 6,2.5,4,Auto,26,38,30,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,02/01/2014,340,236,293
+2015,MAZDA,MAZDA,MAZDA 6,2.5,4,Auto,28,40,32,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,02/01/2014,318,223,275
+2015,MAZDA,MAZDA,MAZDA 6,2.5,4,Manual,25,37,29,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Midsize Cars,02/01/2014,355,242,304
+2015,MAZDA,MAZDA,MAZDA3 5-Door,2.0,4,Auto,30,40,33,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,07/07/2014,300,222,265
+2015,MAZDA,MAZDA,MAZDA3 5-Door,2.0,4,Manual,29,40,33,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Midsize Cars,07/07/2014,308,222,269
+2015,MAZDA,MAZDA,MAZDA3 5-Door,2.5,4,Auto,27,37,31,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,07/07/2014,326,243,288
+2015,MAZDA,MAZDA,MAZDA3 5-Door,2.5,4,Auto,28,39,32,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,07/07/2014,313,229,275
+2015,MAZDA,MAZDA,MAZDA3 5-Door,2.5,4,Manual,26,35,29,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Midsize Cars,07/07/2014,349,252,305
+2015,Nissan,NISSAN,ALTIMA,2.5,4,Auto,27,38,31,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Midsize Cars,04/06/2014,328,232,284
+2015,Nissan,NISSAN,ALTIMA,3.5,6,Auto,22,32,26,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),7,"2-Wheel Drive, Front",Midsize Cars,04/06/2014,405,279,343
+2015,Subaru,Subaru,LEGACY,2.5,4,Auto,26,36,30,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,All Wheel Drive,Midsize Cars,16/06/2014,341,246,298
+2015,Subaru,Subaru,LEGACY,3.6,6,Auto,20,29,23,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,All Wheel Drive,Midsize Cars,16/06/2014,448,308,385
+2015,Volkswagen Group of,Volkswagen,Passat,1.8,4,Auto,24,36,28,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Midsize Cars,14/07/2014,363,247,311
+2015,Volkswagen Group of,Volkswagen,Passat,1.8,4,Manual,24,35,28,Turbocharged,Manual,5,"2-Wheel Drive, Front",Midsize Cars,14/07/2014,366,251,314
+2015,Volkswagen Group of,Volkswagen,Passat,2.0,4,Auto,30,42,34,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Midsize Cars,14/07/2014,344,243,298
+2015,Volkswagen Group of,Volkswagen,Passat,2.0,4,Manual,30,44,35,Turbocharged,Manual,6,"2-Wheel Drive, Front",Midsize Cars,28/07/2014,341,234,293
+2015,Volkswagen Group of,Volkswagen,Passat,3.6,6,Auto,20,28,23,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),6,"2-Wheel Drive, Front",Midsize Cars,26/05/2014,449,319,390
+2015,Volvo,"Volvo Cars of North America, LLC",S80 AWD,3.0,6,Auto,19,28,22,Turbocharged,Semi-Automatic,6,All Wheel Drive,Midsize Cars,03/01/2014,461,317,396
+2015,Volvo,"Volvo Cars of North America, LLC",S80 FWD,2.0,4,Auto,25,37,29,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Front",Midsize Cars,03/01/2014,357,243,306
+2015,Volkswagen Group of,Audi,A8L,3.0,6,Auto,24,36,28,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,15/05/2014,426,280,360
+2015,Volkswagen Group of,Audi,A8L,3.0,6,Auto,19,29,22,Supercharged,Semi-Automatic,8,All Wheel Drive,Large Cars,15/05/2014,473,303,397
+2015,Volkswagen Group of,Audi,A8L,4.0,8,Auto,18,29,22,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,15/05/2014,492,310,410
+2015,Volkswagen Group of,Audi,A8L,6.3,12,Auto,14,22,17,Naturally Aspirated,Semi-Automatic,8,All Wheel Drive,Large Cars,15/05/2014,640,403,534
+2015,BMW,BMW,328i xDrive Gran Turismo,2.0,4,Auto,22,33,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,18/07/2014,400,267,340
+2015,BMW,BMW,335i xDrive Gran Turismo,3.0,6,Auto,20,30,24,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,24/07/2014,444,294,377
+2015,BMW,BMW,550i xDrive Gran Turismo,4.4,8,Auto,16,24,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,28/07/2014,566,369,477
+2015,BMW,BMW,740Ld xDrive,3.0,6,Auto,23,31,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,15/04/2014,436,328,387
+2015,BMW,BMW,750i,4.4,8,Auto,17,25,20,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Large Cars,01/08/2014,505,356,438
+2015,BMW,BMW,750i xDrive,4.4,8,Auto,16,24,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,28/07/2014,566,369,477
+2015,BMW,BMW,750Li xDrive,4.4,8,Auto,16,24,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,28/07/2014,566,369,477
+2015,BMW,BMW,Alpina B7 LWB xDrive,4.4,8,Auto,16,24,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,28/07/2014,566,369,477
+2015,BMW,BMW,Alpina B7 SWB xDrive,4.4,8,Auto,16,24,19,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,28/07/2014,566,369,477
+2015,BMW,BMW,X1 sDrive28i,2.0,4,Auto,23,34,27,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Large Cars,04/04/2014,391,265,334
+2015,BMW,BMW,X1 xDrive28i,2.0,4,Auto,22,32,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Large Cars,01/04/2014,403,274,345
+2015,BMW,BMW,X1 xDrive35i,3.0,6,Auto,18,27,21,Turbocharged,Semi-Automatic,6,All Wheel Drive,Large Cars,01/04/2014,496,334,423
+2015,General Motors,Cadillac,XTS,3.6,6,Auto,18,28,21,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,30/05/2014,499,318,417
+2015,General Motors,Cadillac,XTS AWD,3.6,6,Auto,16,24,19,Turbocharged,Semi-Automatic,6,All Wheel Drive,Large Cars,30/05/2014,558,373,475
+2015,General Motors,Cadillac,XTS AWD,3.6,6,Auto,17,26,20,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Large Cars,18/07/2014,519,338,437
+2015,General Motors,Chevrolet,IMPALA,2.5,4,Auto,22,31,25,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,07/05/2014,404,287,355
+2015,General Motors,Chevrolet,IMPALA,3.6,6,Auto,18,28,21,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,30/05/2014,499,318,417
+2015,General Motors,Chevrolet,IMPALA,3.6,6,Auto,19,29,22,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,30/05/2014,472,309,399
+2015,General Motors,Chevrolet,IMPALA LIMITED,3.6,6,Auto,18,30,22,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Large Cars,30/05/2014,498,299,408
+2015,General Motors,Chevrolet,SS,6.2,8,Auto,14,21,17,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear",Large Cars,31/07/2014,633,422,538
+2015,Chrysler Group LLC,Chrysler,300,3.6,6,Auto,19,31,23,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,21/07/2014,466,290,386
+2015,Chrysler Group LLC,Chrysler,300,5.7,8,Auto,16,25,19,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,21/07/2014,558,352,465
+2015,Chrysler Group LLC,Dodge,Charger,3.6,6,Auto,19,31,23,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,21/07/2014,466,290,386
+2015,Chrysler Group LLC,Dodge,Charger,5.7,8,Auto,16,25,19,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,21/07/2014,558,352,465
+2015,Chrysler Group LLC,Dodge,Charger SRT8,6.4,8,Auto,15,25,18,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,21/07/2014,591,357,486
+2015,Ford Motor Company,Ford,Special Service Police FWD,2.0,4,Auto,20,30,24,Turbocharged,Automatic,6,"2-Wheel Drive, Front",Large Cars,05/06/2014,436,298,374
+2015,Ford Motor Company,Ford,TAURUS AWD,3.5,6,Auto,17,25,20,Turbocharged,Semi-Automatic,6,All Wheel Drive,Large Cars,05/06/2014,524,357,449
+2015,Ford Motor Company,Ford,TAURUS AWD,3.5,6,Auto,18,26,21,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Large Cars,05/06/2014,491,345,425
+2015,Ford Motor Company,Ford,TAURUS AWD FFV,3.5,6,Auto,18,26,21,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Large Cars,05/06/2014,491,345,425
+2015,Ford Motor Company,Ford,TAURUS FWD,2.0,4,Auto,22,32,26,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,05/06/2014,397,278,342
+2015,Ford Motor Company,Ford,TAURUS FWD,3.5,6,Auto,19,29,23,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,05/06/2014,460,311,393
+2015,Ford Motor Company,Ford,TAURUS FWD FFV,3.5,6,Auto,19,29,23,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,05/05/2014,460,311,393
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Equus,5.0,8,Auto,15,23,18,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,29/04/2014,597,387,502
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Genesis AWD,3.8,6,Auto,16,25,19,Naturally Aspirated,Automatic,8,All Wheel Drive,Large Cars,15/02/2014,544,356,459
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Genesis RWD,3.8,6,Auto,18,29,22,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,15/02/2014,489,311,409
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Genesis RWD,5.0,8,Auto,15,23,18,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,15/02/2014,600,384,503
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Sonata,2.0,4,Auto,23,32,26,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,15/07/2014,395,282,344
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Sonata,2.4,4,Auto,25,37,29,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,30/05/2014,362,242,308
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Sonata SPORT/LIMITED,2.4,4,Auto,24,35,28,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,30/05/2014,376,258,323
+2015,Jaguar Land Rover L,Jaguar,XJ,5.0,8,Auto,15,23,18,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Large Cars,30/01/2014,599,387,504
+2015,Jaguar Land Rover L,Jaguar,XJ AWD,3.0,6,Auto,16,24,19,Supercharged,Semi-Automatic,8,All Wheel Drive,Large Cars,01/07/2014,553,364,468
+2015,Jaguar Land Rover L,Jaguar,XJ FFV,3.0,6,Auto,18,27,21,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Large Cars,01/07/2014,497,329,421
+2015,Jaguar Land Rover L,Jaguar,XJ FFV,5.0,8,Auto,15,23,18,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Large Cars,01/07/2014,599,387,504
+2015,Jaguar Land Rover L,Jaguar,XJL,5.0,8,Auto,15,23,18,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Large Cars,30/01/2014,599,387,504
+2015,Jaguar Land Rover L,Jaguar,XJL AWD,3.0,6,Auto,16,24,19,Supercharged,Semi-Automatic,8,All Wheel Drive,Large Cars,01/07/2014,558,364,471
+2015,Jaguar Land Rover L,Jaguar,XJL FFV,3.0,6,Auto,17,27,20,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Large Cars,01/07/2014,535,328,442
+2015,Jaguar Land Rover L,Jaguar,XJL FFV,5.0,8,Auto,15,23,18,Supercharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Large Cars,01/07/2014,599,387,504
+2015,Kia,KIA MOTORS CORPORATION,Cadenza,3.3,6,Auto,19,28,22,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Large Cars,15/04/2014,477,316,404
+2015,Kia,KIA MOTORS CORPORATION,Forte 5,1.6,4,Auto,21,29,24,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,26/05/2014,419,304,367
+2015,Kia,KIA MOTORS CORPORATION,Forte 5,1.6,4,Manual,21,29,24,Turbocharged,Manual,6,"2-Wheel Drive, Front",Large Cars,26/05/2014,413,306,365
+2015,Kia,KIA MOTORS CORPORATION,Forte 5,2.0,4,Auto,25,33,28,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Large Cars,26/05/2014,358,266,317
+2015,Kia,KIA MOTORS CORPORATION,K900,3.8,6,Auto,18,27,21,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,02/01/2014,501,335,427
+2015,Kia,KIA MOTORS CORPORATION,K900,5.0,8,Auto,15,23,18,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Large Cars,02/01/2014,584,384,494
+2015,Ford Motor Company,Lincoln,MKS AWD,3.5,6,Auto,17,25,20,Turbocharged,Semi-Automatic,6,All Wheel Drive,Large Cars,05/06/2014,524,357,449
+2015,Mercedes-Benz,Mercedes-Benz,S 550,4.7,8,Auto,17,26,20,Turbocharged,Automatic,7,"2-Wheel Drive, Rear",Large Cars,28/04/2014,528,341,444
+2015,Mercedes-Benz,Mercedes-Benz,S 550 4MATIC,4.7,8,Auto,16,26,19,Turbocharged,Automatic,7,4-Wheel Drive,Large Cars,28/04/2014,557,346,462
+2015,Mercedes-Benz,Mercedes-Benz,S 600,6.0,12,Auto,12,21,15,Turbocharged,Automatic,7,"2-Wheel Drive, Rear",Large Cars,27/05/2014,712,419,580
+2015,Mercedes-Benz,Mercedes-Benz,S 63 AMG 4MATIC,5.5,8,Auto,15,23,18,Turbocharged,Automatic,7,4-Wheel Drive,Large Cars,28/04/2014,593,383,499
+2015,Mercedes-Benz,Mercedes-Benz,S 65 AMG,6.0,12,Auto,13,20,15,Turbocharged,Automatic,7,"2-Wheel Drive, Rear",Large Cars,27/05/2014,694,443,581
+2015,Porsche,Porsche,Panamera,3.6,6,Auto,18,28,22,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Large Cars,16/06/2014,487,319,411
+2015,Porsche,Porsche,Panamera 4,3.6,6,Auto,18,27,21,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Large Cars,16/06/2014,494,331,421
+2015,Porsche,Porsche,Panamera 4S,3.0,6,Auto,17,27,21,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Large Cars,16/06/2014,508,333,429
+2015,Porsche,Porsche,Panamera 4S Executive,3.0,6,Auto,17,26,20,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Large Cars,16/06/2014,517,336,436
+2015,Porsche,Porsche,Panamera GTS,4.8,8,Auto,16,24,19,Naturally Aspirated,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Large Cars,16/06/2014,572,368,480
+2015,Porsche,Porsche,Panamera S,3.0,6,Auto,17,27,21,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,"2-Wheel Drive, Rear",Large Cars,16/06/2014,508,333,429
+2015,Porsche,Porsche,Panamera Turbo,4.8,8,Auto,15,24,18,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Large Cars,09/06/2014,577,368,483
+2015,Porsche,Porsche,Panamera Turbo Executive,4.8,8,Auto,15,24,18,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Large Cars,09/06/2014,583,372,488
+2015,Porsche,Porsche,Panamera Turbo S,4.8,8,Auto,15,24,18,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Large Cars,09/06/2014,577,368,483
+2015,Porsche,Porsche,Panamera Turbo S Executive,4.8,8,Auto,15,24,18,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Large Cars,09/06/2014,583,372,488
+2015,Volkswagen Group of,Audi,allroad quattro,2.0,4,Auto,21,28,24,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small Station Wagons,09/06/2014,420,317,373
+2015,BMW,BMW,328i xDrive Sports Wagon,2.0,4,Auto,22,33,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small Station Wagons,18/07/2014,400,267,340
+2015,Chrysler Group LLC,FIAT,500L,1.4,4,Auto,22,30,25,Turbocharged,Automatic,6,"2-Wheel Drive, Front",Small Station Wagons,14/07/2014,400,292,351
+2015,Chrysler Group LLC,FIAT,500L,1.4,4,Auto,24,33,27,Turbocharged,Automated Manual,6,"2-Wheel Drive, Front",Small Station Wagons,14/07/2014,372,271,327
+2015,Chrysler Group LLC,FIAT,500L,1.4,4,Manual,25,33,28,Turbocharged,Manual,6,"2-Wheel Drive, Front",Small Station Wagons,14/07/2014,348,269,312
+2015,Honda,Honda,FIT,1.5,4,Auto,33,41,36,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Small Station Wagons,01/04/2014,269,216,247
+2015,Honda,Honda,FIT,1.5,4,Auto,32,38,35,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),7,"2-Wheel Drive, Front",Small Station Wagons,01/04/2014,275,233,256
+2015,Honda,Honda,FIT,1.5,4,Manual,29,37,32,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Small Station Wagons,01/04/2014,306,241,277
+2015,Nissan,INFINITI,QX50,3.7,6,Auto,17,25,20,Naturally Aspirated,Semi-Automatic,7,"2-Wheel Drive, Rear",Small Station Wagons,06/05/2014,524,357,445
+2015,Nissan,INFINITI,QX50 AWD,3.7,6,Auto,17,24,20,Naturally Aspirated,Semi-Automatic,7,All Wheel Drive,Small Station Wagons,06/05/2014,515,365,447
+2015,Kia,KIA MOTORS CORPORATION,Soul,1.6,4,Auto,24,30,26,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small Station Wagons,01/07/2014,365,291,332
+2015,Kia,KIA MOTORS CORPORATION,Soul,1.6,4,Manual,24,30,26,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Small Station Wagons,01/07/2014,370,291,335
+2015,Kia,KIA MOTORS CORPORATION,Soul,2.0,4,Auto,23,31,26,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small Station Wagons,01/07/2014,382,291,341
+2015,Kia,KIA MOTORS CORPORATION,Soul ECO dynamics,2.0,4,Auto,24,31,27,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small Station Wagons,01/07/2014,369,292,334
+2015,Volvo,"Volvo Cars of North America, LLC",V60 AWD,2.5,5,Auto,20,29,23,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small Station Wagons,03/01/2014,432,306,375
+2015,Volvo,"Volvo Cars of North America, LLC",V60 AWD,3.0,6,Auto,19,28,22,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small Station Wagons,03/01/2014,461,317,396
+2015,Volvo,"Volvo Cars of North America, LLC",V60 FWD,2.0,4,Auto,25,37,29,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Front",Small Station Wagons,03/01/2014,357,243,306
+2015,Volvo,"Volvo Cars of North America, LLC",V60 PoleStar AWD,3.0,6,Auto,18,27,21,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small Station Wagons,02/05/2014,478,323,408
+2015,Toyota,TOYOTA,TACOMA 2WD,2.7,4,Auto,19,24,21,Naturally Aspirated,Automatic,4,"2-Wheel Drive, Rear",Small Pick-up Trucks 2WD,04/08/2014,460,370,419
+2015,Toyota,TOYOTA,TACOMA 2WD,2.7,4,Manual,21,25,22,Naturally Aspirated,Manual,5,"2-Wheel Drive, Rear",Small Pick-up Trucks 2WD,04/08/2014,423,358,394
+2015,Toyota,TOYOTA,TACOMA 2WD,4.0,6,Auto,17,21,19,Naturally Aspirated,Automatic,5,"2-Wheel Drive, Rear",Small Pick-up Trucks 2WD,04/08/2014,516,413,469
+2015,Toyota,TOYOTA,TACOMA 2WD,4.0,6,Manual,16,21,18,Naturally Aspirated,Manual,6,"2-Wheel Drive, Rear",Small Pick-up Trucks 2WD,04/08/2014,544,424,490
+2015,Toyota,TOYOTA,TACOMA 4WD,2.7,4,Auto,18,21,19,Naturally Aspirated,Automatic,4,Part-time 4-Wheel Drive,Small Pick-up Trucks 4WD,04/08/2014,492,422,460
+2015,Toyota,TOYOTA,TACOMA 4WD,2.7,4,Manual,18,20,19,Naturally Aspirated,Manual,5,Part-time 4-Wheel Drive,Small Pick-up Trucks 4WD,04/08/2014,479,429,456
+2015,Toyota,TOYOTA,TACOMA 4WD,4.0,6,Auto,16,21,18,Naturally Aspirated,Automatic,5,Part-time 4-Wheel Drive,Small Pick-up Trucks 4WD,04/08/2014,557,428,499
+2015,Toyota,TOYOTA,TACOMA 4WD,4.0,6,Manual,15,19,17,Naturally Aspirated,Manual,6,Part-time 4-Wheel Drive,Small Pick-up Trucks 4WD,04/08/2014,571,463,523
+2015,General Motors,Chevrolet,K15 SILVERADO 4WD,5.3,8,Auto,16,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard Pick-up Trucks 4WD,06/01/2014,562,403,490
+2015,General Motors,GMC,K15 SIERRA 4WD,5.3,8,Auto,16,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard Pick-up Trucks 4WD,06/01/2014,562,403,490
+2015,General Motors,Chevrolet,G2500 EXPRESS CONV 2WD CARGOMDPV,6.0,8,Auto,10,15,12,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Cargo Types",21/07/2014,875,590,747
+2015,General Motors,Chevrolet,G2500 EXPRESS CONV 2WD CARGOMDPV,6.0,8,Auto,10,15,12,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Cargo Types",21/07/2014,868,582,740
+2015,General Motors,GMC,G2500 SAVANA CONV 2WD CARGO MDPV,6.0,8,Auto,10,15,12,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Cargo Types",21/07/2014,875,590,747
+2015,General Motors,GMC,G2500 SAVANA CONV 2WD CARGO MDPV,6.0,8,Auto,10,15,12,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Cargo Types",21/07/2014,868,582,740
+2015,General Motors,Chevrolet,G2500 EXPRESS 2WD PASS MDPV,4.8,8,Auto,11,17,13,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,791,534,675
+2015,General Motors,Chevrolet,G2500 EXPRESS 2WD PASS MDPV,6.0,8,Auto,11,16,13,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,830,564,710
+2015,General Motors,Chevrolet,G2500 EXPRESS 2WD PASS MDPV,6.0,8,Auto,11,16,13,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,830,564,710
+2015,General Motors,Chevrolet,G3500 EXPRESS 2WD PASS MDPV,4.8,8,Auto,11,17,13,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,794,536,678
+2015,General Motors,Chevrolet,G3500 EXPRESS 2WD PASS MDPV,6.0,8,Auto,11,16,12,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,844,572,721
+2015,General Motors,Chevrolet,G3500 EXPRESS 2WD PASS MDPV,6.0,8,Auto,11,16,12,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,840,568,718
+2015,Ford Motor Company,Ford,Transit T150 Wagon,3.5,6,Auto,14,19,16,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",02/06/2014,626,471,556
+2015,Ford Motor Company,Ford,Transit T150 Wagon FFV,3.7,6,Auto,14,19,16,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",02/06/2014,627,476,559
+2015,General Motors,GMC,G2500 SAVANA 2WD PASS MDPV,4.8,8,Auto,11,17,13,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,791,534,675
+2015,General Motors,GMC,G2500 SAVANA 2WD PASS MDPV,6.0,8,Auto,11,16,13,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,830,564,710
+2015,General Motors,GMC,G2500 SAVANA 2WD PASS MDPV,6.0,8,Auto,11,16,13,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,830,564,710
+2015,General Motors,GMC,G3500 SAVANA 2WD PASS MDPV,4.8,8,Auto,11,17,13,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,792,535,676
+2015,General Motors,GMC,G3500 SAVANA 2WD PASS MDPV,6.0,8,Auto,11,16,12,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,842,571,720
+2015,General Motors,GMC,G3500 SAVANA 2WD PASS MDPV,6.0,8,Auto,11,16,12,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear","Vans, Passenger Type",21/07/2014,837,567,716
+2015,General Motors,Cadillac,XTS HEARSE,3.6,6,Auto,14,21,17,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Special Purpose Vehicle 2WD,30/05/2014,625,432,538
+2015,General Motors,Cadillac,XTS LIMO,3.6,6,Auto,14,21,17,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Special Purpose Vehicle 2WD,30/05/2014,614,424,528
+2015,Chrysler Group LLC,Chrysler,Town & Country,3.6,6,Auto,17,25,20,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front","Special Purpose Vehicle, minivan 2WD",04/08/2014,518,354,444
+2015,Chrysler Group LLC,Dodge,Grand Caravan,3.6,6,Auto,17,25,20,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front","Special Purpose Vehicle, minivan 2WD",04/08/2014,518,354,444
+2015,Honda,Honda,ODYSSEY 2WD,3.5,6,Auto,19,28,22,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front","Special Purpose Vehicle, minivan 2WD",01/08/2014,468,321,402
+2015,MAZDA,MAZDA,MAZDA 5,2.5,4,Auto,21,28,24,Naturally Aspirated,Semi-Automatic,5,"2-Wheel Drive, Front","Special Purpose Vehicle, minivan 2WD",24/07/2014,413,317,370
+2015,Chrysler Group LLC,RAM,C/V Tradesman,3.6,6,Auto,18,26,21,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front","Special Purpose Vehicle, minivan 2WD",04/08/2014,504,345,432
+2015,Chrysler Group LLC,RAM,C/V Tradesman,3.6,6,Auto,18,26,21,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front","Special Purpose Vehicle, minivan 2WD",04/08/2014,504,345,432
+2015,Honda,Acura,MDX 2WD,3.5,6,Auto,20,28,23,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,03/06/2014,448,313,387
+2015,Honda,Acura,RDX 2WD,3.5,6,Auto,20,28,23,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,01/04/2014,443,315,385
+2015,BMW,BMW,X3 sDrive 28i,2.0,4,Auto,21,28,24,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Rear",Small SUV 2WD,01/04/2014,419,315,372
+2015,General Motors,Chevrolet,CAPTIVA FWD,2.4,4,Auto,20,28,23,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,30/05/2014,444,318,386
+2015,General Motors,Chevrolet,EQUINOX FWD,2.4,4,Auto,22,32,26,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,30/05/2014,398,278,344
+2015,General Motors,Chevrolet,EQUINOX FWD,2.4,4,Auto,22,32,26,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,30/05/2014,398,278,344
+2015,General Motors,Chevrolet,EQUINOX FWD,3.6,6,Auto,17,24,20,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,30/05/2014,536,370,444
+2015,Chrysler Group LLC,Dodge,Journey,2.4,4,Auto,19,26,21,Naturally Aspirated,Automatic,4,"2-Wheel Drive, Front",Small SUV 2WD,14/07/2014,479,346,419
+2015,Chrysler Group LLC,Dodge,Journey,3.6,6,Auto,17,25,19,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,14/07/2014,538,356,456
+2015,General Motors,GMC,TERRAIN FWD,2.4,4,Auto,22,32,26,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,30/05/2014,398,278,344
+2015,General Motors,GMC,TERRAIN FWD,2.4,4,Auto,22,32,26,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,30/05/2014,398,278,344
+2015,General Motors,GMC,TERRAIN FWD,3.6,6,Auto,17,24,20,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,30/05/2014,536,370,444
+2015,Honda,Honda,PILOT 2WD,3.5,6,Auto,18,25,21,Naturally Aspirated,Automatic,5,"2-Wheel Drive, Front",Small SUV 2WD,03/06/2014,500,349,432
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,2.0,4,Auto,23,29,25,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,02/06/2014,382,306,348
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Tucson FWD,2.4,4,Auto,21,28,24,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,01/06/2014,425,309,373
+2015,Nissan,INFINITI,QX70 RWD,3.7,6,Auto,17,24,19,Naturally Aspirated,Semi-Automatic,7,"2-Wheel Drive, Rear",Small SUV 2WD,07/05/2014,525,374,457
+2015,Chrysler Group LLC,Jeep,Cherokee FWD,2.4,4,Auto,22,31,25,Naturally Aspirated,Automatic,9,"2-Wheel Drive, Front",Small SUV 2WD,21/07/2014,414,291,359
+2015,Chrysler Group LLC,Jeep,Cherokee FWD,2.4,4,Auto,22,31,25,Naturally Aspirated,Automatic,9,"2-Wheel Drive, Front",Small SUV 2WD,21/07/2014,414,291,359
+2015,Chrysler Group LLC,Jeep,Cherokee FWD,3.2,6,Auto,21,29,24,Naturally Aspirated,Automatic,9,"2-Wheel Drive, Front",Small SUV 2WD,21/07/2014,430,307,375
+2015,Chrysler Group LLC,Jeep,Compass FWD,2.0,4,Auto,22,27,24,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Small SUV 2WD,04/08/2014,406,333,373
+2015,Chrysler Group LLC,Jeep,Compass FWD,2.0,4,Manual,23,30,26,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Small SUV 2WD,04/08/2014,385,294,344
+2015,Chrysler Group LLC,Jeep,Compass FWD,2.4,4,Auto,21,28,23,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,04/08/2014,424,323,379
+2015,Chrysler Group LLC,Jeep,Patriot FWD,2.0,4,Auto,22,27,24,Naturally Aspirated,Continuously Variable,1,"2-Wheel Drive, Front",Small SUV 2WD,04/08/2014,406,333,373
+2015,Chrysler Group LLC,Jeep,Patriot FWD,2.0,4,Manual,23,30,26,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Small SUV 2WD,04/08/2014,385,294,344
+2015,Chrysler Group LLC,Jeep,Patriot FWD,2.4,4,Auto,21,28,23,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,04/08/2014,424,323,379
+2015,Kia,KIA MOTORS CORPORATION,Sorento FWD,2.4,4,Auto,20,27,23,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,02/01/2014,440,325,388
+2015,Kia,KIA MOTORS CORPORATION,Sorento FWD,3.3,6,Auto,18,25,21,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,02/01/2014,484,354,425
+2015,Kia,KIA MOTORS CORPORATION,Sportage FWD,2.0,4,Auto,20,26,23,Turbocharged,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,02/06/2014,436,339,393
+2015,Kia,KIA MOTORS CORPORATION,Sportage FWD,2.4,4,Auto,21,28,24,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,02/06/2014,426,309,373
+2015,Toyota,LEXUS,RX 350,3.5,6,Auto,18,25,21,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,10/03/2014,487,356,428
+2015,Toyota,LEXUS,RX 450h,3.5,6,Auto,32,28,30,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,"2-Wheel Drive, Front",Small SUV 2WD,10/03/2014,281,317,297
+2015,Ford Motor Company,Lincoln,MKC  FWD,2.0,4,Auto,20,29,23,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,19/05/2014,445,307,387
+2015,Ford Motor Company,Lincoln,MKX FWD,3.7,6,Auto,18,26,21,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,04/08/2014,502,345,431
+2015,MAZDA,MAZDA,CX-5 2WD,2.0,4,Auto,26,32,29,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,02/01/2014,335,274,307
+2015,MAZDA,MAZDA,CX-5 2WD,2.0,4,Manual,26,35,29,Naturally Aspirated,Manual,6,"2-Wheel Drive, Front",Small SUV 2WD,02/01/2014,339,256,302
+2015,MAZDA,MAZDA,CX-5 2WD,2.5,4,Auto,25,32,27,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,02/01/2014,360,280,324
+2015,MAZDA,MAZDA,CX-9 2WD,3.7,6,Auto,17,24,19,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,25/07/2014,525,372,457
+2015,Mercedes-Benz,Mercedes-Benz,GLK 350,3.5,6,Auto,19,26,22,Naturally Aspirated,Automatic,7,"2-Wheel Drive, Rear",Small SUV 2WD,06/06/2014,468,345,413
+2015,Mercedes-Benz,Mercedes-Benz,GLK 350,3.5,6,Auto,19,25,21,Naturally Aspirated,Automatic,7,"2-Wheel Drive, Rear",Small SUV 2WD,16/06/2014,474,350,418
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER 2WD,2.4,4,Auto,25,31,27,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,"2-Wheel Drive, Front",Small SUV 2WD,01/07/2014,356,287,325
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER SPORT 2WD,2.0,4,Auto,25,32,28,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,"2-Wheel Drive, Front",Small SUV 2WD,01/07/2014,348,271,313
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER SPORT 2WD,2.0,4,Manual,24,30,26,Naturally Aspirated,Manual,5,"2-Wheel Drive, Front",Small SUV 2WD,01/07/2014,373,298,339
+2015,Volkswagen Group of,Volkswagen,Tiguan,2.0,4,Auto,21,26,23,Turbocharged,Semi-Automatic,6,"2-Wheel Drive, Front",Small SUV 2WD,14/07/2014,431,344,392
+2015,Volvo,"Volvo Cars of North America, LLC",XC60 FWD,2.0,4,Auto,24,31,27,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Front",Small SUV 2WD,03/01/2014,371,287,333
+2015,Volvo,"Volvo Cars of North America, LLC",XC60 FWD,2.0,4,Auto,22,30,25,Turbocharged+Supercharged,Semi-Automatic,8,"2-Wheel Drive, Front",Small SUV 2WD,03/01/2014,407,293,356
+2015,Volvo,"Volvo Cars of North America, LLC",XC70 FWD,2.0,4,Auto,24,31,27,Turbocharged,Semi-Automatic,8,"2-Wheel Drive, Front",Small SUV 2WD,03/01/2014,371,287,333
+2015,Honda,Acura,MDX 4WD,3.5,6,Auto,18,27,21,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,03/06/2014,485,331,416
+2015,Honda,Acura,RDX 4WD,3.5,6,Auto,19,27,22,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,01/04/2014,456,329,399
+2015,Volkswagen Group of,Audi,Q5,2.0,4,Auto,20,28,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,09/06/2014,452,322,393
+2015,Volkswagen Group of,Audi,Q5,3.0,6,Auto,18,26,21,Supercharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,09/06/2014,496,347,429
+2015,Volkswagen Group of,Audi,Q5,3.0,6,Auto,24,31,27,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,10/06/2014,430,328,385
+2015,Volkswagen Group of,Audi,Q5 Hybrid,2.0,4,Auto,24,30,26,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,09/06/2014,369,298,337
+2015,Volkswagen Group of,Audi,SQ5,3.0,6,Auto,17,24,19,Supercharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,09/06/2014,528,373,458
+2015,BMW,BMW,X3 xDrive28d,2.0,4,Auto,27,34,30,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,18/04/2014,374,299,340
+2015,BMW,BMW,X3 xDrive28i,2.0,4,Auto,21,28,24,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,01/04/2014,419,315,372
+2015,BMW,BMW,X3 xDrive35i,3.0,6,Auto,19,26,21,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,01/04/2014,473,343,415
+2015,BMW,BMW,X4 xDrive28i,2.0,4,Auto,20,28,23,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,27/06/2014,445,313,386
+2015,BMW,BMW,X4 xDrive35i,3.0,6,Auto,19,27,22,Turbocharged,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,26/06/2014,479,333,413
+2015,General Motors,Chevrolet,EQUINOX AWD,2.4,4,Auto,20,29,23,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,31/05/2014,435,310,379
+2015,General Motors,Chevrolet,EQUINOX AWD,2.4,4,Auto,20,29,23,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,14/07/2014,435,310,379
+2015,General Motors,Chevrolet,EQUINOX AWD,3.6,6,Auto,16,23,19,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,30/05/2014,559,387,468
+2015,Chrysler Group LLC,Dodge,Journey AWD,3.6,6,Auto,16,24,19,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,14/07/2014,548,374,470
+2015,General Motors,GMC,TERRAIN AWD,2.4,4,Auto,20,29,23,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,31/05/2014,435,310,379
+2015,General Motors,GMC,TERRAIN AWD,3.6,6,Auto,16,23,19,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,30/05/2014,559,387,468
+2015,Honda,Honda,PILOT 4WD,3.5,6,Auto,17,24,20,Naturally Aspirated,Automatic,5,All Wheel Drive,Small SUV 4WD,03/06/2014,514,364,446
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,2.0,4,Auto,21,25,23,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,01/06/2014,432,346,393
+2015,Hyundai,HYUNDAI MOTOR COMPANY,Tucson AWD,2.4,4,Auto,20,25,22,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,02/06/2014,445,347,401
+2015,Nissan,INFINITI,QX70 AWD,3.7,6,Auto,16,22,18,Naturally Aspirated,Semi-Automatic,7,All Wheel Drive,Small SUV 4WD,07/05/2014,551,407,486
+2015,Chrysler Group LLC,Jeep,Cherokee 4X4,2.4,4,Auto,21,28,24,Naturally Aspirated,Automatic,9,All Wheel Drive,Small SUV 4WD,21/07/2014,426,315,376
+2015,Chrysler Group LLC,Jeep,Cherokee 4X4,2.4,4,Auto,21,28,24,Naturally Aspirated,Automatic,9,All Wheel Drive,Small SUV 4WD,21/07/2014,426,315,376
+2015,Chrysler Group LLC,Jeep,Cherokee 4X4,3.2,6,Auto,20,28,23,Naturally Aspirated,Automatic,9,All Wheel Drive,Small SUV 4WD,21/07/2014,439,321,385
+2015,Chrysler Group LLC,Jeep,Cherokee 4x4 Active Drive II,2.4,4,Auto,21,27,23,Naturally Aspirated,Automatic,9,4-Wheel Drive,Small SUV 4WD,21/07/2014,429,327,383
+2015,Chrysler Group LLC,Jeep,Cherokee 4x4 Active Drive II,3.2,6,Auto,19,26,22,Naturally Aspirated,Automatic,9,4-Wheel Drive,Small SUV 4WD,01/08/2014,475,338,414
+2015,Chrysler Group LLC,Jeep,Cherokee Trailhawk 4X4,2.4,4,Auto,19,25,22,Naturally Aspirated,Automatic,9,4-Wheel Drive,Small SUV 4WD,21/07/2014,456,354,410
+2015,Chrysler Group LLC,Jeep,Cherokee Trailhawk 4X4,3.2,6,Auto,19,26,22,Naturally Aspirated,Automatic,9,4-Wheel Drive,Small SUV 4WD,21/07/2014,462,340,407
+2015,Chrysler Group LLC,Jeep,Compass 4X4,2.4,4,Auto,21,27,23,Naturally Aspirated,Automatic,6,4-Wheel Drive,Small SUV 4WD,04/08/2014,430,330,385
+2015,Chrysler Group LLC,Jeep,Compass 4X4,2.4,4,Auto,20,23,21,Naturally Aspirated,Continuously Variable,1,4-Wheel Drive,Small SUV 4WD,04/08/2014,441,387,416
+2015,Chrysler Group LLC,Jeep,Compass 4X4,2.4,4,Manual,22,27,24,Naturally Aspirated,Manual,5,4-Wheel Drive,Small SUV 4WD,04/08/2014,401,326,367
+2015,Chrysler Group LLC,Jeep,Patriot 4X4,2.4,4,Auto,21,27,23,Naturally Aspirated,Automatic,6,4-Wheel Drive,Small SUV 4WD,04/08/2014,430,330,385
+2015,Chrysler Group LLC,Jeep,Patriot 4X4,2.4,4,Auto,20,23,21,Naturally Aspirated,Continuously Variable,1,4-Wheel Drive,Small SUV 4WD,04/08/2014,441,387,416
+2015,Chrysler Group LLC,Jeep,Patriot 4X4,2.4,4,Manual,22,27,24,Naturally Aspirated,Manual,5,4-Wheel Drive,Small SUV 4WD,04/08/2014,401,326,367
+2015,Chrysler Group LLC,Jeep,Wrangler 4X4,3.6,6,Auto,17,21,18,Naturally Aspirated,Automatic,5,4-Wheel Drive,Small SUV 4WD,21/07/2014,532,420,482
+2015,Chrysler Group LLC,Jeep,Wrangler 4X4,3.6,6,Manual,17,21,18,Naturally Aspirated,Manual,6,4-Wheel Drive,Small SUV 4WD,21/07/2014,537,412,481
+2015,Chrysler Group LLC,Jeep,Wrangler Unlimited 4X4,3.6,6,Auto,16,20,18,Naturally Aspirated,Automatic,5,4-Wheel Drive,Small SUV 4WD,21/07/2014,557,442,505
+2015,Chrysler Group LLC,Jeep,Wrangler Unlimited 4X4,3.6,6,Manual,16,21,18,Naturally Aspirated,Manual,6,4-Wheel Drive,Small SUV 4WD,21/07/2014,564,428,503
+2015,Kia,KIA MOTORS CORPORATION,Sorento AWD,2.4,4,Auto,19,25,22,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,02/01/2014,455,350,408
+2015,Kia,KIA MOTORS CORPORATION,Sorento AWD,3.3,6,Auto,18,24,20,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,02/01/2014,506,378,449
+2015,Kia,KIA MOTORS CORPORATION,Sportage AWD,2.0,4,Auto,19,24,21,Turbocharged,Automatic,6,All Wheel Drive,Small SUV 4WD,02/06/2014,470,360,421
+2015,Kia,KIA MOTORS CORPORATION,Sportage AWD,2.4,4,Auto,19,26,22,Naturally Aspirated,Automatic,6,All Wheel Drive,Small SUV 4WD,02/06/2014,451,339,400
+2015,Jaguar Land Rover L,Land Rover,LR2,2.0,4,Auto,17,24,20,Turbocharged,Semi-Automatic,9,4-Wheel Drive,Small SUV 4WD,01/05/2014,509,376,450
+2015,Toyota,LEXUS,RX 350 AWD,3.5,6,Auto,18,24,20,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,10/03/2014,506,370,445
+2015,Toyota,LEXUS,RX 350 AWD,3.5,6,Auto,18,26,21,Naturally Aspirated,Semi-Automatic,8,All Wheel Drive,Small SUV 4WD,10/03/2014,482,345,420
+2015,Toyota,LEXUS,RX 450h AWD,3.5,6,Auto,30,28,29,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,All Wheel Drive,Small SUV 4WD,10/03/2014,299,320,309
+2015,Ford Motor Company,Lincoln,MKC  AWD,2.0,4,Auto,19,26,22,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,19/05/2014,468,343,404
+2015,Ford Motor Company,Lincoln,MKC  AWD,2.3,4,Auto,18,26,21,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,19/05/2014,489,347,425
+2015,Ford Motor Company,Lincoln,MKX AWD,3.7,6,Auto,17,23,19,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,04/08/2014,516,389,459
+2015,MAZDA,MAZDA,CX-5 4WD,2.0,4,Auto,25,31,28,Naturally Aspirated,Semi-Automatic,6,4-Wheel Drive,Small SUV 4WD,02/01/2014,349,287,321
+2015,MAZDA,MAZDA,CX-5 4WD,2.5,4,Auto,24,30,26,Naturally Aspirated,Semi-Automatic,6,4-Wheel Drive,Small SUV 4WD,02/01/2014,372,297,338
+2015,MAZDA,MAZDA,CX-9 4WD,3.7,6,Auto,16,22,18,Naturally Aspirated,Semi-Automatic,6,4-Wheel Drive,Small SUV 4WD,25/07/2014,543,404,480
+2015,Mercedes-Benz,Mercedes-Benz,GLK 350 4MATIC,3.5,6,Auto,18,24,20,Naturally Aspirated,Automatic,7,4-Wheel Drive,Small SUV 4WD,06/06/2014,492,386,444
+2015,Mercedes-Benz,Mercedes-Benz,GLK 350 4MATIC,3.5,6,Auto,18,25,21,Naturally Aspirated,Automatic,7,4-Wheel Drive,Small SUV 4WD,01/07/2014,488,360,430
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER 4WD,2.4,4,Auto,24,29,26,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,4-Wheel Drive,Small SUV 4WD,01/07/2014,372,301,340
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER 4WD,3.0,6,Auto,20,28,23,Naturally Aspirated,Semi-Automatic,6,4-Wheel Drive,Small SUV 4WD,01/07/2014,433,318,381
+2015,Mitsubishi Motors Co,Mitsubishi Motors Corporation,OUTLANDER SPORT 4WD,2.0,4,Auto,24,30,27,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,4-Wheel Drive,Small SUV 4WD,01/07/2014,359,288,327
+2015,Porsche,Porsche,Macan S,3.0,6,Auto,17,23,19,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Small SUV 4WD,09/05/2014,517,388,459
+2015,Porsche,Porsche,Macan Turbo,3.6,6,Auto,17,23,19,Turbocharged,Automated Manual- Selectable (e.g. Automated Manual with paddles),7,All Wheel Drive,Small SUV 4WD,09/05/2014,537,382,467
+2015,Subaru,Subaru,FORESTER,2.0,4,Auto,24,32,27,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,All Wheel Drive,Small SUV 4WD,03/02/2014,365,283,328
+2015,Subaru,Subaru,FORESTER,2.0,4,Auto,23,28,25,Turbocharged,Selectable Continuously Variable (e.g. CVT with paddles),8,All Wheel Drive,Small SUV 4WD,03/02/2014,384,323,357
+2015,Subaru,Subaru,FORESTER,2.0,4,Manual,22,29,25,Naturally Aspirated,Manual,6,All Wheel Drive,Small SUV 4WD,03/02/2014,404,310,362
+2015,Subaru,Subaru,OUTBACK,2.5,4,Auto,25,33,28,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,All Wheel Drive,Small SUV 4WD,02/06/2014,353,269,315
+2015,Subaru,Subaru,OUTBACK,3.6,6,Auto,20,27,22,Naturally Aspirated,Selectable Continuously Variable (e.g. CVT with paddles),6,All Wheel Drive,Small SUV 4WD,02/06/2014,453,326,396
+2015,Volkswagen Group of,Volkswagen,Tiguan 4Motion,2.0,4,Auto,20,26,23,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,14/07/2014,435,344,394
+2015,Volvo,"Volvo Cars of North America, LLC",XC60 AWD,2.5,5,Auto,18,25,21,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,02/06/2014,481,346,420
+2015,Volvo,"Volvo Cars of North America, LLC",XC60 AWD,3.0,6,Auto,17,24,20,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,03/01/2014,496,358,434
+2015,Volvo,"Volvo Cars of North America, LLC",XC60 AWD,3.2,6,Auto,18,25,20,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,03/01/2014,492,352,429
+2015,Volvo,"Volvo Cars of North America, LLC",XC70 AWD,3.0,6,Auto,17,24,20,Turbocharged,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,03/01/2014,496,358,434
+2015,Volvo,"Volvo Cars of North America, LLC",XC70 AWD,3.2,6,Auto,18,25,21,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Small SUV 4WD,03/01/2014,482,343,420
+2015,General Motors,Buick,ENCLAVE FWD,3.6,6,Auto,17,24,19,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Standard SUV 2WD,30/05/2014,538,375,465
+2015,General Motors,Cadillac,ESCALADE 2WD,6.2,8,Auto,15,21,17,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,15/01/2014,609,428,527
+2015,General Motors,Cadillac,ESCALADE ESV 2WD,6.2,8,Auto,15,21,17,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,15/01/2014,609,428,527
+2015,General Motors,Cadillac,SRX,3.6,6,Auto,17,24,19,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Standard SUV 2WD,30/05/2014,536,370,461
+2015,General Motors,Chevrolet,C1500 SUBURBAN 2WD,5.3,8,Auto,16,23,18,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,06/01/2014,561,383,481
+2015,General Motors,Chevrolet,C1500 SUBURBAN 2WD,5.3,8,Auto,16,23,18,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,22/05/2014,561,383,481
+2015,General Motors,Chevrolet,C1500 TAHOE 2WD,5.3,8,Auto,16,23,18,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,06/01/2014,561,383,481
+2015,General Motors,Chevrolet,C1500 TAHOE 2WD,5.3,8,Auto,16,23,18,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,22/05/2014,561,383,481
+2015,General Motors,Chevrolet,TRAVERSE FWD,3.6,6,Auto,17,24,19,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Standard SUV 2WD,30/05/2014,538,375,465
+2015,Ford Motor Company,Ford,EXPLORER FFV 2WD,3.5,6,Auto,17,24,20,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Standard SUV 2WD,05/06/2014,518,366,450
+2015,Ford Motor Company,Ford,EXPLORER FWD,2.0,4,Auto,20,28,23,Turbocharged,Automatic,6,"2-Wheel Drive, Front",Standard SUV 2WD,05/06/2014,449,322,392
+2015,Ford Motor Company,Ford,EXPLORER FWD,3.5,6,Auto,17,24,20,Naturally Aspirated,Semi-Automatic,6,"2-Wheel Drive, Front",Standard SUV 2WD,05/06/2014,518,366,450
+2015,General Motors,GMC,ACADIA FWD,3.6,6,Auto,17,24,19,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Front",Standard SUV 2WD,30/05/2014,538,375,465
+2015,General Motors,GMC,C1500 YUKON 2WD,5.3,8,Auto,16,23,18,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,06/01/2014,561,383,481
+2015,General Motors,GMC,C1500 YUKON 2WD,5.3,8,Auto,16,23,18,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,22/05/2014,561,383,481
+2015,General Motors,GMC,C1500 YUKON 2WD,6.2,8,Auto,15,21,17,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,15/01/2014,609,428,527
+2015,General Motors,GMC,C1500 YUKON XL 2WD,5.3,8,Auto,16,23,18,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,06/01/2014,561,383,481
+2015,General Motors,GMC,C1500 YUKON XL 2WD,5.3,8,Auto,16,23,18,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,22/05/2014,561,383,481
+2015,General Motors,GMC,C1500 YUKON XL 2WD,6.2,8,Auto,15,21,17,Naturally Aspirated,Automatic,6,"2-Wheel Drive, Rear",Standard SUV 2WD,15/01/2014,609,428,527
+2015,Chrysler Group LLC,Jeep,Grand Cherokee 4X2,3.6,6,Auto,17,25,20,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Standard SUV 2WD,21/07/2014,511,360,443
+2015,Chrysler Group LLC,Jeep,Grand Cherokee 4X2,5.7,8,Auto,14,22,17,Naturally Aspirated,Automatic,8,"2-Wheel Drive, Rear",Standard SUV 2WD,21/07/2014,629,403,527
+2015,Mercedes-Benz,Mercedes-Benz,ML 350,3.5,6,Auto,18,24,20,Naturally Aspirated,Automatic,7,"2-Wheel Drive, Rear",Standard SUV 2WD,23/07/2014,491,377,440
+2015,Volkswagen Group of,Audi,Q7,3.0,6,Auto,19,28,22,Turbocharged,Semi-Automatic,8,All Wheel Drive,Standard SUV 4WD,02/06/2014,541,369,464
+2015,Volkswagen Group of,Audi,Q7,3.0,6,Auto,16,22,18,Supercharged,Semi-Automatic,8,All Wheel Drive,Standard SUV 4WD,09/06/2014,570,409,498
+2015,General Motors,Buick,ENCLAVE AWD,3.6,6,Auto,16,22,18,Naturally Aspirated,Automatic,6,All Wheel Drive,Standard SUV 4WD,30/05/2014,551,404,494
+2015,General Motors,Cadillac,ESCALADE 4WD,6.2,8,Auto,14,21,16,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,15/01/2014,635,431,555
+2015,General Motors,Cadillac,ESCALADE ESV 4WD,6.2,8,Auto,14,20,16,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,15/01/2014,634,443,548
+2015,General Motors,Cadillac,SRX AWD,3.6,6,Auto,16,23,18,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Standard SUV 4WD,30/05/2014,556,391,482
+2015,General Motors,Chevrolet,K1500 SUBURBAN 4WD,5.3,8,Auto,15,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,06/01/2014,581,409,503
+2015,General Motors,Chevrolet,K1500 SUBURBAN 4WD,5.3,8,Auto,15,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,22/05/2014,581,409,503
+2015,General Motors,Chevrolet,K1500 TAHOE 4WD,5.3,8,Auto,16,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,06/01/2014,573,407,498
+2015,General Motors,Chevrolet,K1500 TAHOE 4WD,5.3,8,Auto,16,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,22/05/2014,573,407,498
+2015,General Motors,Chevrolet,TRAVERSE AWD,3.6,6,Auto,16,23,19,Naturally Aspirated,Automatic,6,All Wheel Drive,Standard SUV 4WD,30/05/2014,551,384,476
+2015,Chrysler Group LLC,Dodge,Durango AWD,3.6,6,Auto,17,24,19,Naturally Aspirated,Automatic,8,4-Wheel Drive,Standard SUV 4WD,21/07/2014,527,373,458
+2015,Ford Motor Company,Ford,EXPLORER AWD,3.5,6,Auto,17,23,19,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Standard SUV 4WD,05/06/2014,537,389,470
+2015,Ford Motor Company,Ford,EXPLORER AWD,3.5,6,Auto,16,22,18,Turbocharged,Semi-Automatic,6,All Wheel Drive,Standard SUV 4WD,05/06/2014,561,404,494
+2015,Ford Motor Company,Ford,EXPLORER FFV AWD,3.5,6,Auto,17,23,19,Naturally Aspirated,Semi-Automatic,6,All Wheel Drive,Standard SUV 4WD,05/06/2014,537,389,470
+2015,General Motors,GMC,ACADIA AWD,3.6,6,Auto,16,23,19,Naturally Aspirated,Automatic,6,All Wheel Drive,Standard SUV 4WD,30/05/2014,551,384,476
+2015,General Motors,GMC,K1500 YUKON 4WD,5.3,8,Auto,16,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,06/01/2014,573,407,498
+2015,General Motors,GMC,K1500 YUKON 4WD,5.3,8,Auto,16,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,22/05/2014,573,407,498
+2015,General Motors,GMC,K1500 YUKON 4WD,6.2,8,Auto,14,21,16,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,15/01/2014,635,431,555
+2015,General Motors,GMC,K1500 YUKON XL 4WD,5.3,8,Auto,15,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,06/01/2014,581,409,503
+2015,General Motors,GMC,K1500 YUKON XL 4WD,5.3,8,Auto,15,22,18,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,22/05/2014,581,409,503
+2015,General Motors,GMC,K1500 YUKON XL 4WD,6.2,8,Auto,14,20,16,Naturally Aspirated,Automatic,6,4-Wheel Drive,Standard SUV 4WD,15/01/2014,634,443,548
+2015,Chrysler Group LLC,Jeep,Grand Cherokee 4X4,3.6,6,Auto,17,24,19,Naturally Aspirated,Automatic,8,4-Wheel Drive,Standard SUV 4WD,21/07/2014,527,373,458
+2015,Chrysler Group LLC,Jeep,Grand Cherokee 4X4,5.7,8,Auto,14,20,16,Naturally Aspirated,Automatic,8,4-Wheel Drive,Standard SUV 4WD,21/07/2014,656,443,560
+2015,Chrysler Group LLC,Jeep,Grand Cherokee SRT8 4x4,6.4,8,Auto,13,19,15,Naturally Aspirated,Automatic,8,4-Wheel Drive,Standard SUV 4WD,21/07/2014,694,475,595
+2015,Jaguar Land Rover L,Land Rover,Land Rover LR4,3.0,6,Auto,15,19,16,Supercharged,Semi-Automatic,8,4-Wheel Drive,Standard SUV 4WD,01/08/2014,610,456,540
+2015,Mercedes-Benz,Mercedes-Benz,GL 350 BLUETEC 4MATIC,3.0,6,Auto,19,26,22,Turbocharged,Automatic,7,4-Wheel Drive,Standard SUV 4WD,22/07/2014,533,391,469
+2015,Mercedes-Benz,Mercedes-Benz,GL 450 4MATIC,3.0,6,Auto,17,21,19,Turbocharged,Automatic,7,4-Wheel Drive,Standard SUV 4WD,04/07/2014,526,423,480
+2015,Mercedes-Benz,Mercedes-Benz,GL 550 4MATIC,4.7,8,Auto,13,18,15,Turbocharged,Automatic,7,4-Wheel Drive,Standard SUV 4WD,15/07/2014,660,498,587
+2015,Mercedes-Benz,Mercedes-Benz,ML 350 4MATIC,3.5,6,Auto,17,22,19,Naturally Aspirated,Automatic,7,4-Wheel Drive,Standard SUV 4WD,15/07/2014,506,396,456
+2015,Mercedes-Benz,Mercedes-Benz,ML 350 4MATIC,3.5,6,Auto,17,22,19,Naturally Aspirated,Automatic,7,4-Wheel Drive,Standard SUV 4WD,23/07/2014,506,396,456
+2015,Mercedes-Benz,Mercedes-Benz,ML 400 4MATIC,3.0,6,Auto,18,22,20,Turbocharged,Automatic,7,4-Wheel Drive,Standard SUV 4WD,04/07/2014,496,403,454
+2015,Volkswagen Group of,Volkswagen,Touareg,3.6,6,Auto,17,23,19,Naturally Aspirated,Semi-Automatic,8,All Wheel Drive,Standard SUV 4WD,01/08/2014,520,391,462
